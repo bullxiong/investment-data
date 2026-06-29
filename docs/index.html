@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>3AI 投资数据看板</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif; background: #f5f7fa; color: #333; padding: 20px; }
+    .container { max-width: 1200px; margin: 0 auto; }
+    h1 { font-size: 24px; margin-bottom: 20px; color: #1a1a2e; }
+    .meta { font-size: 13px; color: #888; margin-bottom: 20px; }
+    .panel { background: #fff; border-radius: 12px; padding: 20px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.04); }
+    .panel h2 { font-size: 16px; margin-bottom: 12px; color: #4a4a6a; border-bottom: 1px solid #eee; padding-bottom: 8px; }
+    table { width: 100%; border-collapse: collapse; font-size: 14px; }
+    th, td { padding: 10px 12px; text-align: left; border-bottom: 1px solid #f0f0f0; }
+    th { font-weight: 600; color: #666; font-size: 12px; text-transform: uppercase; }
+    tr:hover { background: #fafafa; }
+    .badge { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 12px; font-weight: 500; }
+    .badge-bullish { background: #e8f5e9; color: #2e7d32; }
+    .badge-bearish { background: #ffebee; color: #c62828; }
+    .badge-neutral { background: #fff3e0; color: #ef6c00; }
+    .loading { color: #888; font-style: italic; }
+    .error { color: #c62828; font-size: 13px; }
+    .refresh-btn { padding: 6px 14px; border: 1px solid #ddd; border-radius: 6px; background: #fff; cursor: pointer; font-size: 13px; color: #555; }
+    .refresh-btn:hover { background: #f5f5f5; }
+    .last-update { font-size: 12px; color: #999; margin-left: 10px; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🐯 3AI 投资数据看板</h1>
+    <p class="meta">GLM（信息）× Kimi（技术）× MiniMax（决策）— 数据来自 GitHub 实时同步</p>
+
+    <div class="panel">
+      <div style="display:flex; align-items:center; margin-bottom:12px;">
+        <h2 style="flex:1; margin:0; border:none; padding:0;">📊 多Agent决策信号</h2>
+        <button class="refresh-btn" onclick="loadAll()">🔄 刷新</button>
+        <span class="last-update" id="last-update">—</span>
+      </div>
+      <div id="decisions-table">
+        <p class="loading">正在从 GitHub 加载数据...</p>
+      </div>
+    </div>
+
+    <div class="panel">
+      <h2>📰 文本信号（信息面）</h2>
+      <div id="text-signals-table">
+        <p class="loading">正在从 GitHub 加载数据...</p>
+      </div>
+    </div>
+
+    <div class="panel">
+      <h2>📈 技术面信号</h2>
+      <div id="tech-signals-table">
+        <p class="loading">正在从 GitHub 加载数据...</p>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // ============ 配置（主人修改这里） ============
+    const GITHUB_USER = '11xiong'; // 你的 GitHub 用户名
+    const REPO = 'investment-data'; // 仓库名
+    const BRANCH = 'main'; // 分支
+    const DATA_DIR = 'data'; // 数据目录
+    // ================================================
+
+    const RAW_URL = `https://raw.githubusercontent.com/${GITHUB_USER}/${REPO}/${BRANCH}/${DATA_DIR}`;
+
+    async function fetchJSON(filename) {
+      try {
+        const resp = await fetch(`${RAW_URL}/${filename}?t=${Date.now()}`);
+        if (resp.status === 404) return null;
+        if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+        return await resp.json();
+      } catch (e) {
+        console.error(`加载 ${filename} 失败:`, e);
+        return null;
+      }
+    }
+
+    function renderDecisions(data) {
+      const el = document.getElementById('decisions-table');
+      if (!data || !Array.isArray(data) || data.length === 0) {
+        el.innerHTML = '<p class="error">暂无决策数据</p>';
+        return;
+      }
+      const rows = data.map(d => {
+        const badge = d.direction === 'bullish' ? 'badge-bullish' : d.direction === 'bearish' ? 'badge-bearish' : 'badge-neutral';
+        const dir = d.direction === 'bullish' ? '看多' : d.direction === 'bearish' ? '看空' : '中性';
+        return `
+          <tr>
+            <td>${d.date || '-'}</td>
+            <td>${d.concept || '-'}</td>
+            <td><span class="badge ${badge}">${dir}</span></td>
+            <td>${d.confidence ? (d.confidence * 100).toFixed(0) + '%' : '-'}</td>
+            <td>${d.kelly_position ? (d.kelly_position * 100).toFixed(1) + '%' : '-'}</td>
+            <td>${d.rationale ? d.rationale.substring(0, 50) + '...' : '-'}</td>
+          </tr>
+        `;
+      }).join('');
+      el.innerHTML = `
+        <table>
+          <thead><tr><th>日期</th><th>概念</th><th>方向</th><th>置信度</th><th>Kelly仓位</th><th>理由</th></tr></thead>
+          <tbody>${rows}</tbody>
+        </table>`;
+    }
+
+    function renderTextSignals(data) {
+      const el = document.getElementById('text-signals-table');
+      if (!data || !Array.isArray(data) || data.length === 0) {
+        el.innerHTML = '<p class="error">暂无文本信号</p>';
+        return;
+      }
+      const rows = data.slice(0, 10).map(d => `
+        <tr>
+          <td>${d.concept || '-'}</td>
+          <td>${d.related_stocks || '-'}</td>
+          <td><span class="badge ${d.direction === 'long' ? 'badge-bullish' : d.direction === 'short' ? 'badge-bearish' : 'badge-neutral'}">${d.sentiment || '-'}</span></td>
+          <td>${d.confidence ? (d.confidence * 100).toFixed(0) + '%' : '-'}</td>
+        </tr>
+      `).join('');
+      el.innerHTML = `
+        <table>
+          <thead><tr><th>概念</th><th>相关股票</th><th>情绪</th><th>置信度</th></tr></thead>
+          <tbody>${rows}</tbody>
+        </table>
+        <p style="font-size:12px;color:#999;margin-top:8px;">${data.length > 10 ? `... 还有 ${data.length - 10} 条` : ''}</p>`;
+    }
+
+    function renderTechSignals(data) {
+      const el = document.getElementById('tech-signals-table');
+      if (!data || !Array.isArray(data) || data.length === 0) {
+        el.innerHTML = '<p class="error">暂无技术面信号</p>';
+        return;
+      }
+      const rows = data.slice(0, 10).map(d => `
+        <tr>
+          <td>${d.stock || d.symbol || '-'}</td>
+          <td>${d.strategy || '-'}</td>
+          <td>${d.signal || '-'}</td>
+          <td>${d.price || '-'}</td>
+        </tr>
+      `).join('');
+      el.innerHTML = `
+        <table>
+          <thead><tr><th>股票</th><th>策略</th><th>信号</th><th>价格</th></tr></thead>
+          <tbody>${rows}</tbody>
+        </table>
+        <p style="font-size:12px;color:#999;margin-top:8px;">${data.length > 10 ? `... 还有 ${data.length - 10} 条` : ''}</p>`;
+    }
+
+    async function loadAll() {
+      document.getElementById('last-update').textContent = '加载中...';
+      const [decisions, textSignals, techSignals] = await Promise.all([
+        fetchJSON('decisions.json'),
+        fetchJSON('text_signals.json'),
+        fetchJSON('strategy_signals.json')
+      ]);
+      renderDecisions(decisions);
+      renderTextSignals(textSignals);
+      renderTechSignals(techSignals);
+      document.getElementById('last-update').textContent = new Date().toLocaleTimeString('zh-CN');
+    }
+
+    loadAll();
+    setInterval(loadAll, 30000); // 每30秒自动刷新
+  </script>
+</body>
+</html>
