@@ -1,0 +1,28 @@
+# 3AI 协作投资系统依赖
+# 安装: pip install -r requirements.txt
+
+# 基础
+pyyaml>=6.0
+requests>=2.31.0
+httpx>=0.27.0
+
+# 数据库
+sqlite3  # Python 内置
+
+# 技术面分析（Sequoia-X 依赖）
+baostock>=0.8.8
+pandas>=2.0.0
+numpy>=1.24.0
+
+# LLM 调用
+openai>=1.0.0
+# 或直接用 httpx 调用各厂商 API
+
+# 数据可视化（Dashboard）
+# jinja2  # Python 内置，用于模板渲染
+# 如需高级图表:
+# plotly>=5.18.0
+# matplotlib>=3.8.0
+
+# 开发/测试
+pytest>=7.4.0
