@@ -11,7 +11,7 @@ from abc import ABC, abstractmethod
 from pathlib import Path
 from typing import Any, Dict, List, Optional
 
-from llm_client import get_client
+from .llm_client import get_client
 
 
 PROMPTS_DIR = Path(__file__).parent / "prompts"
