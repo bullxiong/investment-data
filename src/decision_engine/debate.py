@@ -14,12 +14,12 @@ import json
 import time
 from typing import Any, Dict, List, Optional
 
-from agents import (
+from .agents import (
     IntelAgent, IndustryAgent, CompanyAgent, ValuationAgent,
     BullAgent, BearAgent, SentimentAgent,
     RiskAgent, ArbiterAgent,
 )
-from kelly import calculate_kelly, risk_check
+from .kelly import calculate_kelly, risk_check
 
 
 def run_debate(
