@@ -274,7 +274,24 @@ def risk_check(position: float, portfolio: Dict, risk_config: Dict) -> bool:
     Returns:
         bool True=通过, False=拦截
     """
-    return _risk_check(position, portfolio, risk_config)
+    if not risk_config:
+        risk_config = {
+            "max_single_position_pct": 0.25,
+            "max_sector_pct": 0.30,
+            "max_drawdown_threshold": 0.15,
+        }
+    
+    # 适配 kelly.py 的 risk_check 接口
+    decision = {"position_pct": position}
+    portfolio_adapter = {
+        "constraints": risk_config,
+        "sector_exposure": portfolio.get("sector_exposure", {}),
+        "current_drawdown": portfolio.get("current_drawdown", 0.0),
+        "cash": portfolio.get("cash", 1.0),  # 默认有足够现金
+        "total_assets": portfolio.get("total_assets", 1.0),
+    }
+    result = _risk_check(decision, portfolio_adapter)
+    return result.get("passed", False)
 
 
 # 可选：导出 orchestrator 供内部使用
