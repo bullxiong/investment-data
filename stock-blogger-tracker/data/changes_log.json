@@ -346,20 +346,6 @@
     {
       "type": "first_mention",
       "blogger": "派大星皮皮",
-      "concept": "CPO",
-      "date": "2026-06-04",
-      "detail": "派大星 首次关注 CPO"
-    },
-    {
-      "type": "first_mention",
-      "blogger": "派大星皮皮",
-      "concept": "贸易",
-      "date": "2026-06-04",
-      "detail": "派大星 首次关注 贸易"
-    },
-    {
-      "type": "first_mention",
-      "blogger": "派大星皮皮",
       "concept": "贵金属",
       "date": "2026-06-06",
       "detail": "派大星 首次关注 贵金属"
@@ -442,7 +428,7 @@
         "白河愁博士"
       ],
       "blogger_count": 2,
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "detail": "存储: 派大星+白河愁 共振看好"
     },
     {
@@ -453,7 +439,7 @@
         "白河愁博士"
       ],
       "blogger_count": 2,
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "detail": "商业航天: 派大星+白河愁 共振看好"
     },
     {
@@ -464,7 +450,7 @@
         "派大星皮皮"
       ],
       "blogger_count": 2,
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "detail": "半导体: 波king+派大星 共振看好"
     },
     {
@@ -477,7 +463,7 @@
       "bearish_bloggers": [
         "派大星皮皮"
       ],
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "detail": "人形机器人: 白河愁、雪球V 看多 vs 派大星 看空"
     },
     {
@@ -491,7 +477,7 @@
         "波king（只爱甜妹/盘后信息分享）",
         "派大星皮皮"
       ],
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "detail": "算力: 白河愁、雪球V 看多 vs 波king、派大星 看空"
     },
     {
@@ -505,7 +491,7 @@
       "bearish_bloggers": [
         "波king（只爱甜妹/盘后信息分享）"
       ],
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "detail": "商业航天: 派大星、白河愁、雪球V 看多 vs 波king 看空"
     },
     {
@@ -517,7 +503,7 @@
       "bearish_bloggers": [
         "白河愁博士"
       ],
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "detail": "CPO: 雪球V 看多 vs 白河愁 看空"
     },
     {
@@ -529,7 +515,7 @@
       "bearish_bloggers": [
         "雪球大V-1034624503"
       ],
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "detail": "光纤: 波king 看多 vs 雪球V 看空"
     },
     {
@@ -542,7 +528,7 @@
       "bearish_bloggers": [
         "派大星皮皮"
       ],
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "detail": "储能: 波king、雪球V 看多 vs 派大星 看空"
     },
     {
@@ -554,7 +540,7 @@
       "bearish_bloggers": [
         "白河愁博士"
       ],
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "detail": "电池: 雪球V 看多 vs 白河愁 看空"
     },
     {
@@ -566,7 +552,7 @@
       "bearish_bloggers": [
         "波king（只爱甜妹/盘后信息分享）"
       ],
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "detail": "液冷: 雪球V 看多 vs 波king 看空"
     },
     {
@@ -580,7 +566,7 @@
       "bearish_bloggers": [
         "波king（只爱甜妹/盘后信息分享）"
       ],
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "detail": "存储: 派大星、白河愁、雪球V 看多 vs 波king 看空"
     },
     {
@@ -594,7 +580,7 @@
         "白河愁博士",
         "雪球大V-1034624503"
       ],
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "detail": "半导体: 波king、派大星 看多 vs 白河愁、雪球V 看空"
     },
     {
@@ -606,7 +592,7 @@
       "bearish_bloggers": [
         "雪球大V-1034624503"
       ],
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "detail": "基板/载板: 波king 看多 vs 雪球V 看空"
     },
     {
@@ -620,7 +606,7 @@
         "白河愁博士",
         "雪球大V-1034624503"
       ],
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "detail": "PCB: 波king 看多 vs 派大星、白河愁、雪球V 看空"
     },
     {
@@ -633,7 +619,7 @@
         "派大星皮皮",
         "白河愁博士"
       ],
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "detail": "新能源: 雪球V 看多 vs 派大星、白河愁 看空"
     },
     {
@@ -645,7 +631,7 @@
       "bearish_bloggers": [
         "派大星皮皮"
       ],
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "detail": "云计算: 雪球V 看多 vs 派大星 看空"
     },
     {
@@ -659,7 +645,7 @@
         "派大星皮皮",
         "白河愁博士"
       ],
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "detail": "锂电: 雪球V 看多 vs 波king、派大星、白河愁 看空"
     },
     {
@@ -671,7 +657,7 @@
       "bearish_bloggers": [
         "白河愁博士"
       ],
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "detail": "MPO: 雪球V 看多 vs 白河愁 看空"
     },
     {
@@ -683,7 +669,7 @@
       "bearish_bloggers": [
         "派大星皮皮"
       ],
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "detail": "军工: 雪球V 看多 vs 派大星 看空"
     },
     {
@@ -695,20 +681,8 @@
       "bearish_bloggers": [
         "派大星皮皮"
       ],
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "detail": "游戏: 白河愁 看多 vs 派大星 看空"
-    },
-    {
-      "type": "divergence",
-      "concept": "创新药",
-      "bullish_bloggers": [
-        "白河愁博士"
-      ],
-      "bearish_bloggers": [
-        "派大星皮皮"
-      ],
-      "date": "2026-07-04",
-      "detail": "创新药: 白河愁 看多 vs 派大星 看空"
     },
     {
       "type": "position_enter",
@@ -2959,19 +2933,19 @@
       }
     }
   ],
-  "updated": "2026-07-04 20:58:13",
+  "updated": "2026-07-05 23:17:29",
   "count": {
     "sentiment_flip": 0,
-    "first_mention": 62,
+    "first_mention": 60,
     "intensity_surge": 0,
     "resonance_form": 3,
-    "divergence": 19,
+    "divergence": 18,
     "position_enter": 30,
     "position_exit": 9,
     "sector_rotation": 21,
     "concentration_surge": 0,
     "concentration_drop": 2,
     "rapid_turnover": 1,
-    "total": 147
+    "total": 144
   }
 }
