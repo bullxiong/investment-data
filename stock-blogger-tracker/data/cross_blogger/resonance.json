@@ -9,7 +9,7 @@
     "start": "2026-06-21",
     "end": "2026-06-26",
     "direction": "bullish",
-    "evidence_count": 28
+    "evidence_count": 31
   },
   {
     "concept": "液冷",
@@ -64,7 +64,7 @@
     "start": "2026-06-11",
     "end": "2026-06-18",
     "direction": "mixed",
-    "evidence_count": 20
+    "evidence_count": 22
   },
   {
     "concept": "证券",
@@ -75,7 +75,7 @@
     "start": "2026-06-14",
     "end": "2026-06-21",
     "direction": "bearish",
-    "evidence_count": 18
+    "evidence_count": 20
   },
   {
     "concept": "算力",
@@ -97,7 +97,7 @@
     "start": "2026-06-21",
     "end": "2026-06-28",
     "direction": "mixed",
-    "evidence_count": 20
+    "evidence_count": 22
   },
   {
     "concept": "新能源",
@@ -108,7 +108,7 @@
     "start": "2026-06-21",
     "end": "2026-06-21",
     "direction": "bearish",
-    "evidence_count": 10
+    "evidence_count": 11
   },
   {
     "concept": "锂电",
@@ -119,7 +119,7 @@
     "start": "2026-06-22",
     "end": "2026-06-28",
     "direction": "bullish",
-    "evidence_count": 8
+    "evidence_count": 9
   },
   {
     "concept": "光纤",
@@ -141,7 +141,18 @@
     "start": "2026-06-29",
     "end": "2026-07-02",
     "direction": "bullish",
-    "evidence_count": 23
+    "evidence_count": 26
+  },
+  {
+    "concept": "创新药",
+    "bloggers": [
+      "派大星皮皮",
+      "白河愁博士"
+    ],
+    "start": "2026-06-29",
+    "end": "2026-07-04",
+    "direction": "mixed",
+    "evidence_count": 17
   },
   {
     "concept": "存储",
@@ -151,7 +162,7 @@
     ],
     "start": "2026-06-30",
     "end": "2026-07-04",
-    "direction": "bearish",
-    "evidence_count": 4
+    "direction": "mixed",
+    "evidence_count": 5
   }
 ]
