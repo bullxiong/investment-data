@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+data/temporal.db
+test/*_output.json
+test/funnel_output.json
+data/reports/
+.pytest_cache/
+.DS_Store
