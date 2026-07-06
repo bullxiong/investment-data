@@ -1,0 +1,46 @@
+{
+  "date": "2026-07-04",
+  "layer1_total": 4,
+  "layer2_after_filter": 3,
+  "candidates": [
+    {
+      "concept": "半导体",
+      "score": 1,
+      "stage": "确认",
+      "cross_verify": "CV-1",
+      "cross_rating": "S级",
+      "consensus_type": "快共识",
+      "days_to_consensus": 2,
+      "action": "正常仓位",
+      "blogger_bullish": 5,
+      "blogger_total": 5,
+      "has_cloud_signal": true,
+      "cloud_entry": 127.8,
+      "cloud_target": null,
+      "cloud_stop": null
+    },
+    {
+      "concept": "证券",
+      "score": 1,
+      "stage": "确认",
+      "cross_verify": "CV-1",
+      "cross_rating": "S级",
+      "consensus_type": "快共识",
+      "days_to_consensus": 3,
+      "action": "正常仓位",
+      "blogger_bullish": 5,
+      "blogger_total": 5,
+      "has_cloud_signal": true,
+      "cloud_entry": 28.5,
+      "cloud_target": null,
+      "cloud_stop": null
+    }
+  ],
+  "avoid": [
+    "AI应用"
+  ],
+  "watch": [
+    "新能源"
+  ],
+  "report_text": "## 2026-07-04 时序选股报告\n\n> Layer1 活跃信号: 4个概念\n> Layer2 阶段过滤后: 3个可操作\n> Layer5 最终候选: 2个\n\n### [AVOID] 今日回避 (1个)\n- AI应用\n\n### [WATCH] 今日观察 (1个)\n- 新能源 [共识] 仅有宏观\n\n### [TARGET] 今日操作候选 (按优先级排序)\n\n1. [S] **半导体** [确认] 正常仓位 | 云起确认 | 博主5/5看多 | 共识: 快共识\n   云起: 127.8→None 止损None\n2. [S] **证券** [确认] 正常仓位 | 云起确认 | 博主5/5看多 | 共识: 快共识\n   云起: 28.5→None 止损None"
+}
