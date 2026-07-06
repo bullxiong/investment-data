@@ -1,0 +1,43 @@
+{
+  "date": "2026-07-04",
+  "candidates": [
+    {
+      "concept": "半导体",
+      "score": 1,
+      "stage": "确认",
+      "cross_verify": "CV-1",
+      "cross_rating": "S级",
+      "consensus_type": "快共识",
+      "days_to_consensus": 2,
+      "action": "正常仓位",
+      "blogger_bullish": 5,
+      "blogger_total": 5,
+      "has_cloud_signal": true,
+      "cloud_entry": 150,
+      "cloud_target": 200,
+      "cloud_stop": 140
+    },
+    {
+      "concept": "证券",
+      "score": 1,
+      "stage": "确认",
+      "cross_verify": "CV-1",
+      "cross_rating": "S级",
+      "consensus_type": "快共识",
+      "days_to_consensus": 3,
+      "action": "正常仓位",
+      "blogger_bullish": 5,
+      "blogger_total": 5,
+      "has_cloud_signal": true,
+      "cloud_entry": 28.5,
+      "cloud_target": 32,
+      "cloud_stop": 27
+    }
+  ],
+  "avoid": [
+    "AI应用"
+  ],
+  "watch": [
+    "新能源"
+  ]
+}
