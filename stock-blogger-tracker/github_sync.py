@@ -43,7 +43,7 @@ def gh_request(method, path, data=None):
     url = f'https://api.github.com{path}'
     body = json.dumps(data).encode('utf-8') if data else None
     req = urllib.request.Request(url, data=body, method=method)
-    req.add_header('Authorization', f'Bearer {TOKEN}')
+    req.add_header('Authorization', f'token {TOKEN}')
     req.add_header('Accept', 'application/vnd.github+json')
     req.add_header('X-GitHub-Api-Version', '2022-11-28')
     if body:
