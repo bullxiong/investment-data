@@ -167,7 +167,7 @@ def step_collect(config: Dict[str, Any], conn: sqlite3.Connection) -> Dict[str, 
     start = time.time()
 
     try:
-        from data_collection import collect_articles, extract_signals
+        from src.data_collection import collect_articles, extract_signals
 
         dc_config = config.get("data_collection", {})
         target_date = dc_config.get("target_date", str(date.today()))
@@ -183,6 +183,8 @@ def step_collect(config: Dict[str, Any], conn: sqlite3.Connection) -> Dict[str, 
 
         # 写入 articles 表
         for art in articles:
+            # Map 3AI field names from our adapter output
+            pub_date = art.get('pub_date') or art.get('created_at') or target_date
             conn.execute("""
                 INSERT OR IGNORE INTO articles
                 (source, author, author_id, title, url, content, pub_date, category)
@@ -190,7 +192,7 @@ def step_collect(config: Dict[str, Any], conn: sqlite3.Connection) -> Dict[str, 
             """, (
                 art.get("source"), art.get("author"), art.get("author_id"),
                 art.get("title"), art.get("url"), art.get("content"),
-                art.get("pub_date"), art.get("category")
+                pub_date, art.get("category") or art.get("source")
             ))
         conn.commit()
 
@@ -204,16 +206,20 @@ def step_collect(config: Dict[str, Any], conn: sqlite3.Connection) -> Dict[str, 
 
         # 写入 text_signals 表
         for sig in signals:
+            # related_stocks is already a JSON string from our extractor
+            related_stocks_raw = sig.get("related_stocks", "[]")
+            if not isinstance(related_stocks_raw, str):
+                related_stocks_raw = json.dumps(related_stocks_raw, ensure_ascii=False)
             conn.execute("""
                 INSERT INTO text_signals
                 (article_id, concept, related_stocks, sentiment, direction, confidence, extracted_date, raw_llm_output)
                 VALUES (?, ?, ?, ?, ?, ?, ?, ?)
             """, (
                 sig.get("article_id"), sig.get("concept"),
-                json.dumps(sig.get("related_stocks", []), ensure_ascii=False),
+                related_stocks_raw,
                 sig.get("sentiment"), sig.get("direction"),
                 sig.get("confidence"), target_date,
-                sig.get("raw_llm_output")
+                sig.get("rationale") or sig.get("raw_llm_output")
             ))
         conn.commit()
 

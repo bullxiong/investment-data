@@ -1,31 +1,60 @@
 # 3AI 协作投资系统配置
-# 三方共享：GLM + Kimi + MiniMax
+# 三方共享：GLM(鸦) + Kimi + MiniMax
+# 最后更新: 2026-07-28
 
 llm:
-  provider: deepseek          # deepseek / minimax / glm
+  provider: deepseek
   model: deepseek-chat
-  api_key: ""                  # 从环境变量 DEEPSEEK_API_KEY 读取，或在此填写
+  api_key: ""                  # 从环境变量 DEEPSEEK_API_KEY 读取
   base_url: "https://api.deepseek.com/v1"
 
 data_collection:
-  sources: ["xueqiu", "wechat"]
-  target_date: "2026-07-04"
+  sources: ["xueqiu", "zhihu", "zsxq", "fuli"]   # 鸦负责的平台
+  target_date: "2026-07-28"
   max_articles_per_source: 50
-  xueqiu_authors: []
+  xueqiu_authors: ["7251377368", "1034624503"]
   wechat_accounts: []
 
+# ── 博主追踪系统 (stock-blogger-tracker) ──
+stock_blogger:
+  # 雪球 token — 从 data/xueqiu_cookies.json 自动读取
+  xueqiu_cookies_file: "data/xueqiu_cookies.json"
+  # 知识星球
+  zsxq_config: "data/zsxq/config.json"
+  # 知乎 cookies — 从 data/zhihu_cookies.json 自动读取
+  zhihu_cookies_file: "data/zhihu_cookies.json"
+  # 复利笔记 satoken
+  fuli_satoken_file: "data/fuli_notes/satoken.txt"
+
+# ── 云起信号 (SparkSignal) ──
+cloud_signals:
+  enabled: true
+  data_dir: "daily-sparksignal-data"
+  current_file: "daily-sparksignal-data/cleaned_system_view_v4.json"
+  sector_cache: "daily-sparksignal-data/sector_cache.json"
+  # 云起策略相关 TODO: 待云起老师提供
+
+# ── 时序列引擎 (temporal_engine) ──
+temporal_engine:
+  enabled: true
+  project_dir: "stock-blogger-tracker/temporal_engine"
+  db_path: "stock-blogger-tracker/temporal_engine/data/temporal.db"
+  sw2_map: "stock-blogger-tracker/temporal_engine/data/sw2_industry_map.json"
+  # 每日流水线输出
+  reports_dir: "stock-blogger-tracker/temporal_engine/data/reports"
+
 technical_analysis:
-  stocks: []                   # 如 ["sh.600519", "sz.000001"]
+  stocks: []
   start_date: "2025-01-01"
-  end_date: "2026-07-04"
+  end_date: "2026-07-28"
   strategies: ["turtle_trade", "ma_volume", "rps_breakout"]
   backtest_window_days: 120
 
 decision_engine:
-  target_concepts: []          # 如 ["液冷服务器", "固态电池"]
+  target_concepts: []
   max_debate_rounds: 3
-  kelly_half: true             # 使用半Kelly
-  max_position_ratio: 0.25     # 单标的最大仓位25%
+  kelly_half: true
+  max_position_ratio: 0.25
 
 risk_control:
   max_single_stock_ratio: 0.25
