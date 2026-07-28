@@ -1,0 +1,5336 @@
+{
+  "generated": "2026-07-11 21:19:03",
+  "total_signals": 418,
+  "signals": [
+    {
+      "type": "研报独有",
+      "concept": "3D打印/3D打印",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "思看科技"
+      ],
+      "detail": "研报关注3D打印/3D打印(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "3D打印/3D打印激光器",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "锐科激光"
+      ],
+      "detail": "研报关注3D打印/3D打印激光器(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "3D打印/3D打印粉材",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "哈森股份"
+      ],
+      "detail": "研报关注3D打印/3D打印粉材(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "3D打印/3D打印设备",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 0,
+      "top_stocks": [
+        "银邦股份",
+        "爱司凯"
+      ],
+      "detail": "研报关注3D打印/3D打印设备(2只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "AI应用/传媒、短剧",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 3,
+      "mention_count": 0,
+      "top_stocks": [
+        "宋城演艺",
+        "分众传媒",
+        "儒意电影"
+      ],
+      "detail": "研报关注AI应用/传媒、短剧(3只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "AI应用/智谱链",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "深信服"
+      ],
+      "detail": "研报关注AI应用/智谱链(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "AI应用/短剧传媒",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "德才股份"
+      ],
+      "detail": "研报关注AI应用/短剧传媒(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "AI应用/视频生成",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "海看股份"
+      ],
+      "detail": "研报关注AI应用/视频生成(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "AI电源/AI电源",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 3,
+      "mention_count": 0,
+      "top_stocks": [
+        "力芯微",
+        "弘讯科技",
+        "新雷能"
+      ],
+      "detail": "研报关注AI电源/AI电源(3只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "AI电源/功率器件",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 3,
+      "mention_count": 0,
+      "top_stocks": [
+        "新洁能",
+        "捷捷微电",
+        "华微电子"
+      ],
+      "detail": "研报关注AI电源/功率器件(3只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "AI电源/电力设备",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 6,
+      "mention_count": 0,
+      "top_stocks": [
+        "宝光股份",
+        "威腾电气",
+        "神马电力",
+        "华明装备",
+        "国电南瑞"
+      ],
+      "detail": "研报关注AI电源/电力设备(6只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "AI电源/电力设备、燃气轮机",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 14,
+      "mention_count": 0,
+      "top_stocks": [
+        "春晖智控",
+        "金房能源",
+        "涪陵电力",
+        "大唐发电",
+        "粤电力A"
+      ],
+      "detail": "研报关注AI电源/电力设备、燃气轮机(14只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "AI电源/电子元件、PCB",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 3,
+      "mention_count": 0,
+      "top_stocks": [
+        "杰赛",
+        "宝鼎",
+        "广合科技"
+      ],
+      "detail": "研报关注AI电源/电子元件、PCB(3只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "AI电源/风电",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 4,
+      "mention_count": 0,
+      "top_stocks": [
+        "明阳电气",
+        "海力",
+        "广大特材",
+        "节能风电"
+      ],
+      "detail": "研报关注AI电源/风电(4只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "互联网/出海",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 4,
+      "mention_count": 0,
+      "top_stocks": [
+        "巨星科技",
+        "易点天下",
+        "甘李药业",
+        "恒瑞医药"
+      ],
+      "detail": "研报关注互联网/出海(4只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "互联网/游戏",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 4,
+      "mention_count": 11,
+      "top_stocks": [
+        "巨人网络",
+        "三七互娱",
+        "恺英网络",
+        "华通"
+      ],
+      "detail": "研报关注互联网/游戏(4只股票, 11次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "互联网/游戏、AI",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "完美世界"
+      ],
+      "detail": "研报关注互联网/游戏、AI(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "互联网/游戏、业绩增长",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 4,
+      "top_stocks": [
+        "世纪华通",
+        "吉比特"
+      ],
+      "detail": "研报关注互联网/游戏、业绩增长(2只股票, 4次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "互联网/游戏、二次元",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "哔哩哔哩"
+      ],
+      "detail": "研报关注互联网/游戏、二次元(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "互联网/游戏、互联网",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "网易"
+      ],
+      "detail": "研报关注互联网/游戏、互联网(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "互联网/游戏、并购",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "中国儒意"
+      ],
+      "detail": "研报关注互联网/游戏、并购(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "互联网/游戏、社区",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "心动公司"
+      ],
+      "detail": "研报关注互联网/游戏、社区(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "互联网/科技巨头、互联网",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "谷歌"
+      ],
+      "detail": "研报关注互联网/科技巨头、互联网(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "互联网/科技巨头、游戏",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "微软"
+      ],
+      "detail": "研报关注互联网/科技巨头、游戏(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "互联网/科技巨头、电商",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "亚马逊"
+      ],
+      "detail": "研报关注互联网/科技巨头、电商(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "互联网/跨境电商",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 4,
+      "mention_count": 4,
+      "top_stocks": [
+        "安克创新",
+        "赛维时代",
+        "华凯易佰",
+        "苏美达"
+      ],
+      "detail": "研报关注互联网/跨境电商(4只股票, 4次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "互联网/跨境电商、家居",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 2,
+      "top_stocks": [
+        "致欧科技"
+      ],
+      "detail": "研报关注互联网/跨境电商、家居(1只股票, 2次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "互联网/基建/电力设备、变压器出海",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 0,
+      "top_stocks": [
+        "特变电工",
+        "思源电气"
+      ],
+      "detail": "研报关注互联网/基建/电力设备、变压器出海(2只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "人工智能/AI、计算机",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 0,
+      "top_stocks": [
+        "通达海",
+        "宏景科技"
+      ],
+      "detail": "研报关注人工智能/AI、计算机(2只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "人工智能/AI应用、大模型",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "昆仑万维"
+      ],
+      "detail": "研报关注人工智能/AI应用、大模型(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "人工智能/AI服务器测试电源",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 0,
+      "top_stocks": [
+        "科威尔",
+        "爱科赛博"
+      ],
+      "detail": "研报关注人工智能/AI服务器测试电源(2只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "人工智能/AI算力、液冷、连接器",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "航天电器"
+      ],
+      "detail": "研报关注人工智能/AI算力、液冷、连接器(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "人工智能/GPU、人工智能",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "摩尔线程"
+      ],
+      "detail": "研报关注人工智能/GPU、人工智能(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "人工智能/GPU、高性能计算",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "沐曦股份"
+      ],
+      "detail": "研报关注人工智能/GPU、高性能计算(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "人工智能/云与算力租赁",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 3,
+      "mention_count": 0,
+      "top_stocks": [
+        "盈峰环境",
+        "利通电子",
+        "杰创智能"
+      ],
+      "detail": "研报关注人工智能/云与算力租赁(3只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "人工智能/华为链、国产算力",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "华丰科技"
+      ],
+      "detail": "研报关注人工智能/华为链、国产算力(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "人工智能/国产算力、AI应用",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "云天励飞"
+      ],
+      "detail": "研报关注人工智能/国产算力、AI应用(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "人工智能/国产算力、CPU、GPU",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "海光信息"
+      ],
+      "detail": "研报关注人工智能/国产算力、CPU、GPU(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "人工智能/国产算力、产业链",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "华懋科技"
+      ],
+      "detail": "研报关注人工智能/国产算力、产业链(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "人工智能/服务器电源",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "欧陆通"
+      ],
+      "detail": "研报关注人工智能/服务器电源(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "人工智能/液冷、数据中心",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 2,
+      "top_stocks": [
+        "冰轮环境"
+      ],
+      "detail": "研报关注人工智能/液冷、数据中心(1只股票, 2次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "人工智能/液冷管路、AI算力",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "川环科技"
+      ],
+      "detail": "研报关注人工智能/液冷管路、AI算力(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "人工智能/算力、服务器",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 2,
+      "top_stocks": [
+        "工业富联",
+        "浪潮信息"
+      ],
+      "detail": "研报关注人工智能/算力、服务器(2只股票, 2次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "人工智能/算力租赁",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "行云科技"
+      ],
+      "detail": "研报关注人工智能/算力租赁(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "人工智能/算力租赁、IDC",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "润建股份"
+      ],
+      "detail": "研报关注人工智能/算力租赁、IDC(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "人工智能/算力租赁、Token运营、液冷服务器、AI大模型",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "软通动力"
+      ],
+      "detail": "研报关注人工智能/算力租赁、Token运营、液冷服务器、AI大模型(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "人工智能/集成灶、算力租赁、国产算力",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "亿田智能"
+      ],
+      "detail": "研报关注人工智能/集成灶、算力租赁、国产算力(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "人工智能/化工/油气设备、数据中心、热管理",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "杰瑞股份"
+      ],
+      "detail": "研报关注人工智能/化工/油气设备、数据中心、热管理(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "人工智能/基建/IDC、算力基建",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 0,
+      "top_stocks": [
+        "润泽科技",
+        "东方国信"
+      ],
+      "detail": "研报关注人工智能/基建/IDC、算力基建(2只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "人工智能/通信/先进陶瓷、AI服务器、高速光模块、HTCC高温共烧陶瓷",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "云意电气"
+      ],
+      "detail": "研报关注人工智能/通信/先进陶瓷、AI服务器、高速光模块、HTCC高温共烧陶瓷(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "人工智能/通信/光通信、AI算力",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 2,
+      "top_stocks": [
+        "新易盛"
+      ],
+      "detail": "研报关注人工智能/通信/光通信、AI算力(1只股票, 2次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "低空经济/低空经济",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 3,
+      "mention_count": 0,
+      "top_stocks": [
+        "万丰奥威",
+        "莱斯信息",
+        "易德龙"
+      ],
+      "detail": "研报关注低空经济/低空经济(3只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "保温杯/保温杯出海",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "哈尔斯"
+      ],
+      "detail": "研报关注保温杯/保温杯出海(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "储能/电力设备、储能",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "科陆电子"
+      ],
+      "detail": "研报关注储能/电力设备、储能(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "光伏/光伏设备",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 6,
+      "mention_count": 0,
+      "top_stocks": [
+        "连城数控",
+        "京山轻机",
+        "捷佳伟创",
+        "高测股份",
+        "大全"
+      ],
+      "detail": "研报关注光伏/光伏设备(6只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "光伏/太空光伏",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 7,
+      "mention_count": 0,
+      "top_stocks": [
+        "奥特维",
+        "聚和材料",
+        "琏升科技",
+        "中来股份",
+        "明阳智能"
+      ],
+      "detail": "研报关注光伏/太空光伏(7只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "光伏/太空光伏、光伏设备",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 0,
+      "top_stocks": [
+        "晶盛机电",
+        "宇晶股份"
+      ],
+      "detail": "研报关注光伏/太空光伏、光伏设备(2只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "光伏/太空光伏、国产链",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 0,
+      "top_stocks": [
+        "上海港湾",
+        "电科蓝天"
+      ],
+      "detail": "研报关注光伏/太空光伏、国产链(2只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "光伏/太空光伏组件",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 0,
+      "top_stocks": [
+        "金辰股份",
+        "弘元绿能"
+      ],
+      "detail": "研报关注光伏/太空光伏组件(2只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "光伏/碳化硅、太空光伏组件",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 3,
+      "mention_count": 0,
+      "top_stocks": [
+        "时代电气",
+        "科创新材",
+        "晶瑞"
+      ],
+      "detail": "研报关注光伏/碳化硅、太空光伏组件(3只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "光伏/银浆、太空光伏",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "苏州固锝"
+      ],
+      "detail": "研报关注光伏/银浆、太空光伏(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "光伏/人工智能/太空光伏、卫星算力",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "云南锗业"
+      ],
+      "detail": "研报关注光伏/人工智能/太空光伏、卫星算力(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "光伏/半导体/半导体设备、ALD、CVD、存储芯片、光伏设备、固态电池",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "微导纳米"
+      ],
+      "detail": "研报关注光伏/半导体/半导体设备、ALD、CVD、存储芯片、光伏设备、固态电池(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "光伏/半导体/存储芯片、光伏",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "帝科股份"
+      ],
+      "detail": "研报关注光伏/半导体/存储芯片、光伏(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "光伏/半导体/粉体材料、电子材料、光通信、光伏、半导体",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "有研粉材"
+      ],
+      "detail": "研报关注光伏/半导体/粉体材料、电子材料、光通信、光伏、半导体(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "光伏/新能源/HJT电池、太空光伏",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "东方日升"
+      ],
+      "detail": "研报关注光伏/新能源/HJT电池、太空光伏(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "光伏/新能源/光伏、储能",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "天合光能"
+      ],
+      "detail": "研报关注光伏/新能源/光伏、储能(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "光伏/新能源/户用储能、逆变器",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 4,
+      "mention_count": 0,
+      "top_stocks": [
+        "锦浪科技",
+        "艾罗能源",
+        "固德威",
+        "德业股份"
+      ],
+      "detail": "研报关注光伏/新能源/户用储能、逆变器(4只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "光伏/新能源/新能源电力、光伏",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "晶科科技"
+      ],
+      "detail": "研报关注光伏/新能源/新能源电力、光伏(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "光通信/CPO",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 3,
+      "mention_count": 0,
+      "top_stocks": [
+        "世嘉科技",
+        "凯格精机",
+        "春光集团"
+      ],
+      "detail": "研报关注光通信/CPO(3只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "光通信/光纤",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 3,
+      "mention_count": 0,
+      "top_stocks": [
+        "通鼎互联",
+        "康宁",
+        "长进光子"
+      ],
+      "detail": "研报关注光通信/光纤(3只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "光通信/光纤、海缆",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "亨通光电"
+      ],
+      "detail": "研报关注光通信/光纤、海缆(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "光通信/光通信",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 12,
+      "mention_count": 0,
+      "top_stocks": [
+        "中际旭创",
+        "德科立",
+        "凌云光",
+        "GLW",
+        "迅捷兴"
+      ],
+      "detail": "研报关注光通信/光通信(12只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "光通信/消费电子",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 10,
+      "mention_count": 0,
+      "top_stocks": [
+        "环旭电子",
+        "海信",
+        "珠海冠宇",
+        "博硕科技",
+        "达瑞电子"
+      ],
+      "detail": "研报关注光通信/消费电子(10只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "光通信/通信设备",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "中兴"
+      ],
+      "detail": "研报关注光通信/通信设备(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/ABF基板",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "南亚新材"
+      ],
+      "detail": "研报关注其他/ABF基板(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/AI电源、电感",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "顺络电子"
+      ],
+      "detail": "研报关注其他/AI电源、电感(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/AI短剧、IP",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "中文在线"
+      ],
+      "detail": "研报关注其他/AI短剧、IP(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/CDN、边缘云",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "网宿科技"
+      ],
+      "detail": "研报关注其他/CDN、边缘云(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/CPU、ARM架构",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "禾盛新材"
+      ],
+      "detail": "研报关注其他/CPU、ARM架构(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/MPO市场",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "特发信息"
+      ],
+      "detail": "研报关注其他/MPO市场(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/MSCI成分股调整",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 4,
+      "mention_count": 0,
+      "top_stocks": [
+        "石头科技",
+        "长飞光纤",
+        "光库科技",
+        "长芯博创"
+      ],
+      "detail": "研报关注其他/MSCI成分股调整(4只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/PIC设计",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "安孚科技"
+      ],
+      "detail": "研报关注其他/PIC设计(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/Q布",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "莱特光电"
+      ],
+      "detail": "研报关注其他/Q布(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/SpaceX",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 3,
+      "mention_count": 0,
+      "top_stocks": [
+        "应流股份",
+        "再升科技",
+        "通宇通讯"
+      ],
+      "detail": "研报关注其他/SpaceX(3只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/T上游、磁性元件",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 0,
+      "top_stocks": [
+        "伊戈尔",
+        "可立克"
+      ],
+      "detail": "研报关注其他/T上游、磁性元件(2只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/T整机、电力电子",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 3,
+      "mention_count": 0,
+      "top_stocks": [
+        "四方股份",
+        "金盘科技",
+        "阳光电源"
+      ],
+      "detail": "研报关注其他/T整机、电力电子(3只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/一二代布、LOW-CTE、Q布",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "山东玻纤"
+      ],
+      "detail": "研报关注其他/一二代布、LOW-CTE、Q布(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/中压UPS、T",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "盛弘"
+      ],
+      "detail": "研报关注其他/中压UPS、T(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/主动耦合、光器件",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "炬光"
+      ],
+      "detail": "研报关注其他/主动耦合、光器件(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/乙烷制烯烃",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "卫星化学"
+      ],
+      "detail": "研报关注其他/乙烷制烯烃(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/乳制品",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "伊利股份"
+      ],
+      "detail": "研报关注其他/乳制品(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/二代布、LOW-CTE",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 2,
+      "top_stocks": [
+        "中材科技"
+      ],
+      "detail": "研报关注其他/二代布、LOW-CTE(1只股票, 2次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/仪器仪表、测试测量",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "华盛昌"
+      ],
+      "detail": "研报关注其他/仪器仪表、测试测量(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/先进封装",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "汇成股份"
+      ],
+      "detail": "研报关注其他/先进封装(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/先进封装、FCBGA基板",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "上峰材料"
+      ],
+      "detail": "研报关注其他/先进封装、FCBGA基板(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/光上游&OCS",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "海泰新光"
+      ],
+      "detail": "研报关注其他/光上游&OCS(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/光学光电子、滤光片",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "水晶光电"
+      ],
+      "detail": "研报关注其他/光学光电子、滤光片(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/光连接、MPO",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "唯科科技"
+      ],
+      "detail": "研报关注其他/光连接、MPO(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/免税",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "中国中免"
+      ],
+      "detail": "研报关注其他/免税(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/六氟化钨、电子特气",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 4,
+      "mention_count": 6,
+      "top_stocks": [
+        "中船特气",
+        "昊华科技",
+        "中巨芯",
+        "和远气体"
+      ],
+      "detail": "研报关注其他/六氟化钨、电子特气(4只股票, 6次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/刻蚀设备、薄膜沉积、CMP设备",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "中微公司"
+      ],
+      "detail": "研报关注其他/刻蚀设备、薄膜沉积、CMP设备(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/园林工程、生态环保",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "诚邦股份"
+      ],
+      "detail": "研报关注其他/园林工程、生态环保(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/固态断路器、元器件",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "良信股份"
+      ],
+      "detail": "研报关注其他/固态断路器、元器件(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/国内映射",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 3,
+      "mention_count": 0,
+      "top_stocks": [
+        "广联航空",
+        "飞沃科技",
+        "信科移动"
+      ],
+      "detail": "研报关注其他/国内映射(3只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/塑料制品",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "佛塑科技"
+      ],
+      "detail": "研报关注其他/塑料制品(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/备用电源",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 3,
+      "mention_count": 0,
+      "top_stocks": [
+        "泰豪科技",
+        "科泰电源",
+        "潍柴重机"
+      ],
+      "detail": "研报关注其他/备用电源(3只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/家纺、睡眠经济、高股息率",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "罗莱生活"
+      ],
+      "detail": "研报关注其他/家纺、睡眠经济、高股息率(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/工业AI、工业自动化",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "中控技术"
+      ],
+      "detail": "研报关注其他/工业AI、工业自动化(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/年报数据、重组",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "狮头股份"
+      ],
+      "detail": "研报关注其他/年报数据、重组(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/感光干膜、mSAP",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "福斯特"
+      ],
+      "detail": "研报关注其他/感光干膜、mSAP(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/房地产、转型发展",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "万通发展"
+      ],
+      "detail": "研报关注其他/房地产、转型发展(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/数采设备",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "德马科技"
+      ],
+      "detail": "研报关注其他/数采设备(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/核聚变",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 0,
+      "top_stocks": [
+        "杭氧股份",
+        "宏微科技"
+      ],
+      "detail": "研报关注其他/核聚变(2只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/油头",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "万华化学"
+      ],
+      "detail": "研报关注其他/油头(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/油运",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 2,
+      "top_stocks": [
+        "招商轮船",
+        "中远海能"
+      ],
+      "detail": "研报关注其他/油运(2只股票, 2次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/泛AI、AI编程",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "卓易信息"
+      ],
+      "detail": "研报关注其他/泛AI、AI编程(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/海缆",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "中天科技"
+      ],
+      "detail": "研报关注其他/海缆(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/液冷",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 0,
+      "top_stocks": [
+        "强瑞技术",
+        "鸿富瀚"
+      ],
+      "detail": "研报关注其他/液冷(2只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/液冷、AI",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "立讯精密"
+      ],
+      "detail": "研报关注其他/液冷、AI(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/液冷、电子水泵",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "飞龙股份"
+      ],
+      "detail": "研报关注其他/液冷、电子水泵(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/液冷板、快接头、HVDC、高速连接器",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "永贵电器"
+      ],
+      "detail": "研报关注其他/液冷板、快接头、HVDC、高速连接器(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/温控设备",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "英维克"
+      ],
+      "detail": "研报关注其他/温控设备(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/热门中概股",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "晶科能源"
+      ],
+      "detail": "研报关注其他/热门中概股(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/煤制烯烃",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "宝丰能源"
+      ],
+      "detail": "研报关注其他/煤制烯烃(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/煤炭",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "中煤能源"
+      ],
+      "detail": "研报关注其他/煤炭(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/熔断器、元器件",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "中熔电气"
+      ],
+      "detail": "研报关注其他/熔断器、元器件(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/燃机叶片",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "万泽股份"
+      ],
+      "detail": "研报关注其他/燃机叶片(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/物理AI",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "索辰科技"
+      ],
+      "detail": "研报关注其他/物理AI(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/特种布、LOW-CTE",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 2,
+      "top_stocks": [
+        "宏和科技"
+      ],
+      "detail": "研报关注其他/特种布、LOW-CTE(1只股票, 2次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/特种树脂、OPE",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 0,
+      "top_stocks": [
+        "东材科技",
+        "圣泉集团"
+      ],
+      "detail": "研报关注其他/特种树脂、OPE(2只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/玻璃基板",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 3,
+      "mention_count": 3,
+      "top_stocks": [
+        "旗滨集团",
+        "力诺药包",
+        "容大感光"
+      ],
+      "detail": "研报关注其他/玻璃基板(3只股票, 3次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/电力",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "华电辽能"
+      ],
+      "detail": "研报关注其他/电力(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/电极箔",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "东阳光"
+      ],
+      "detail": "研报关注其他/电极箔(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/电源设备、英伟达供应链",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "麦格米特"
+      ],
+      "detail": "研报关注其他/电源设备、英伟达供应链(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/电解液、LiFSI、添加剂、磷酸铁锂",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "天赐材料"
+      ],
+      "detail": "研报关注其他/电解液、LiFSI、添加剂、磷酸铁锂(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/电解铝",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "亿华通"
+      ],
+      "detail": "研报关注其他/电解铝(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/石油开采、能源安全",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "通源石油"
+      ],
+      "detail": "研报关注其他/石油开采、能源安全(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/硅微粉、CCL材料",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "联瑞新材"
+      ],
+      "detail": "研报关注其他/硅微粉、CCL材料(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/磁悬浮压缩机",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "鑫磊股份"
+      ],
+      "detail": "研报关注其他/磁悬浮压缩机(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/磷酸铁锂、碳酸锂",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "龙蟠科技"
+      ],
+      "detail": "研报关注其他/磷酸铁锂、碳酸锂(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/科技巨头、社交媒体",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "Meta"
+      ],
+      "detail": "研报关注其他/科技巨头、社交媒体(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/纸浆模塑、环保材料、双反受益",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "众鑫股份"
+      ],
+      "detail": "研报关注其他/纸浆模塑、环保材料、双反受益(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/绝缘漆助剂、赛克、乙酰丙酮、钛酸酯、TMA",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "键邦股份"
+      ],
+      "detail": "研报关注其他/绝缘漆助剂、赛克、乙酰丙酮、钛酸酯、TMA(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/聚酯",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 6,
+      "mention_count": 6,
+      "top_stocks": [
+        "桐昆股份",
+        "新凤鸣",
+        "恒力石化",
+        "荣盛石化",
+        "恒逸石化"
+      ],
+      "detail": "研报关注其他/聚酯(6只股票, 6次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/脑机接口",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 6,
+      "top_stocks": [
+        "浙江荣泰",
+        "三花智控"
+      ],
+      "detail": "研报关注其他/脑机接口(2只股票, 6次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/药水、mSAP",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "天承科技"
+      ],
+      "detail": "研报关注其他/药水、mSAP(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/薄膜电容、AI、核聚变、超级电容、安规电容",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "王子新材"
+      ],
+      "detail": "研报关注其他/薄膜电容、AI、核聚变、超级电容、安规电容(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/薄膜电容、被动元器件",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "法拉电子"
+      ],
+      "detail": "研报关注其他/薄膜电容、被动元器件(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/设备、HVLP",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "泰金"
+      ],
+      "detail": "研报关注其他/设备、HVLP(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/超快激光、玻璃基板",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 4,
+      "mention_count": 0,
+      "top_stocks": [
+        "德龙激光",
+        "帝尔激光",
+        "英诺激光",
+        "大族数控"
+      ],
+      "detail": "研报关注其他/超快激光、玻璃基板(4只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/超级电容、BBU、HVDC、AIDC",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "宗申动力"
+      ],
+      "detail": "研报关注其他/超级电容、BBU、HVDC、AIDC(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/透镜、微光学",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "蓝特光学"
+      ],
+      "detail": "研报关注其他/透镜、微光学(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/造纸、箱板纸",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "山东墨龙"
+      ],
+      "detail": "研报关注其他/造纸、箱板纸(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/铝电解电容、薄膜电容",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "江海股份"
+      ],
+      "detail": "研报关注其他/铝电解电容、薄膜电容(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/锂矿、碳酸锂",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 7,
+      "mention_count": 0,
+      "top_stocks": [
+        "华友钴业",
+        "赣锋锂业",
+        "中矿资源",
+        "盛新锂能",
+        "永兴材料"
+      ],
+      "detail": "研报关注其他/锂矿、碳酸锂(7只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/锡膏、电子焊接材料",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "华光新材"
+      ],
+      "detail": "研报关注其他/锡膏、电子焊接材料(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/陶瓷基复合材料",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "火炬电子"
+      ],
+      "detail": "研报关注其他/陶瓷基复合材料(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/零部件",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "泛亚微透"
+      ],
+      "detail": "研报关注其他/零部件(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/风机",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 3,
+      "mention_count": 0,
+      "top_stocks": [
+        "三一重工",
+        "金风科技",
+        "明阳电路"
+      ],
+      "detail": "研报关注其他/风机(3只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "其他/高压隔离变、元器件",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "京泉华"
+      ],
+      "detail": "研报关注其他/高压隔离变、元器件(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "军工/军工军贸",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 5,
+      "mention_count": 0,
+      "top_stocks": [
+        "中航沈飞",
+        "中航成飞",
+        "成飞集成",
+        "国睿科技",
+        "航天南湖"
+      ],
+      "detail": "研报关注军工/军工军贸(5只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "军工/航改燃",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 0,
+      "top_stocks": [
+        "航发控制",
+        "航发科技"
+      ],
+      "detail": "研报关注军工/航改燃(2只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "军工/航空",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 6,
+      "mention_count": 0,
+      "top_stocks": [
+        "华夏航空",
+        "南方航空",
+        "中国国航",
+        "海航控股",
+        "吉祥航空"
+      ],
+      "detail": "研报关注军工/航空(6只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "军工/船舶制造、军工",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 0,
+      "top_stocks": [
+        "中国船舶",
+        "中船防务"
+      ],
+      "detail": "研报关注军工/船舶制造、军工(2只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "军工/船舶动力、军工",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "中国动力"
+      ],
+      "detail": "研报关注军工/船舶动力、军工(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "军工/低空经济/商业航天",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 0,
+      "top_stocks": [
+        "拉普拉斯",
+        "起帆电缆"
+      ],
+      "detail": "研报关注军工/低空经济/商业航天(2只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "军工/低空经济/商业航天、S链",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "迈为股份"
+      ],
+      "detail": "研报关注军工/低空经济/商业航天、S链(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "军工/低空经济/商业航天、国产链",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "钧达股份"
+      ],
+      "detail": "研报关注军工/低空经济/商业航天、国产链(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "军工/基建/燃气轮机",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "联德股份"
+      ],
+      "detail": "研报关注军工/基建/燃气轮机(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "军工/基建/燃气轮机、电力设备",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "东方电气"
+      ],
+      "detail": "研报关注军工/基建/燃气轮机、电力设备(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "军工/基建/燃气轮机发电",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 0,
+      "top_stocks": [
+        "派克新材",
+        "中密控股"
+      ],
+      "detail": "研报关注军工/基建/燃气轮机发电(2只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "军工/基建/燃气轮机整机",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "航发动力"
+      ],
+      "detail": "研报关注军工/基建/燃气轮机整机(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "军工/基建/燃气轮机机匣、贝克休斯供应商",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "航宇科技"
+      ],
+      "detail": "研报关注军工/基建/燃气轮机机匣、贝克休斯供应商(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "军工/通信/卫星互联网、航天军工",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "航天电子"
+      ],
+      "detail": "研报关注军工/通信/卫星互联网、航天军工(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "出海/保温杯",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "嘉益股份"
+      ],
+      "detail": "研报关注出海/保温杯(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "制冷/液冷",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 13,
+      "mention_count": 0,
+      "top_stocks": [
+        "申菱环境",
+        "华塑科技",
+        "意华股份",
+        "依米康",
+        "骏鼎达"
+      ],
+      "detail": "研报关注制冷/液冷(13只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "制冷/金刚石散热",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "九州一轨"
+      ],
+      "detail": "研报关注制冷/金刚石散热(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "化工/化工",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 22,
+      "mention_count": 0,
+      "top_stocks": [
+        "荣盛",
+        "沧州大化",
+        "金牛化工",
+        "金瑞矿业",
+        "红星发展"
+      ],
+      "detail": "研报关注化工/化工(22只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "化工/化工、氨纶",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 2,
+      "top_stocks": [
+        "新乡化纤",
+        "华峰化学"
+      ],
+      "detail": "研报关注化工/化工、氨纶(2只股票, 2次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "化工/化工、芳纶",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "泰和新材"
+      ],
+      "detail": "研报关注化工/化工、芳纶(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "化工/化纤",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 3,
+      "mention_count": 0,
+      "top_stocks": [
+        "北化股份",
+        "三房巷",
+        "三友化工"
+      ],
+      "detail": "研报关注化工/化纤(3只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "化工/染料",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 3,
+      "mention_count": 0,
+      "top_stocks": [
+        "龙盛",
+        "闰土",
+        "宏华数科"
+      ],
+      "detail": "研报关注化工/染料(3只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "化工/油气",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 0,
+      "top_stocks": [
+        "准油股份",
+        "洲际油气"
+      ],
+      "detail": "研报关注化工/油气(2只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "化工/液冷、散热",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "思泉新材"
+      ],
+      "detail": "研报关注化工/液冷、散热(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "化工/煤化工",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 0,
+      "top_stocks": [
+        "华鲁恒升",
+        "鲁西化工"
+      ],
+      "detail": "研报关注化工/煤化工(2只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "化工/煤炭、煤化工",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "中国旭阳集团"
+      ],
+      "detail": "研报关注化工/煤炭、煤化工(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "化工/高纯度氧化铝散热",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 0,
+      "top_stocks": [
+        "壹石通",
+        "国瓷材料"
+      ],
+      "detail": "研报关注化工/高纯度氧化铝散热(2只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "医药/医疗",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 16,
+      "mention_count": 0,
+      "top_stocks": [
+        "前沿生物",
+        "通化东宝",
+        "百济神州",
+        "澳华内镜",
+        "翔宇医疗"
+      ],
+      "detail": "研报关注医药/医疗(16只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/AI电源PCB、垂直供电",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "中富电路"
+      ],
+      "detail": "研报关注半导体/AI电源PCB、垂直供电(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/AI电源、PCB",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "中富电路"
+      ],
+      "detail": "研报关注半导体/AI电源、PCB(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/CCL、PCB上游",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 3,
+      "mention_count": 3,
+      "top_stocks": [
+        "华正新材",
+        "金安国纪",
+        "建滔积层板"
+      ],
+      "detail": "研报关注半导体/CCL、PCB上游(3只股票, 3次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/HBM、半导体",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "三星"
+      ],
+      "detail": "研报关注半导体/HBM、半导体(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/MLCC",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 3,
+      "mention_count": 0,
+      "top_stocks": [
+        "三环集团",
+        "洁美科技",
+        "博迁新材"
+      ],
+      "detail": "研报关注半导体/MLCC(3只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/PCB",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 6,
+      "mention_count": 0,
+      "top_stocks": [
+        "沪电股份",
+        "奥士康",
+        "依顿电子",
+        "胜宏科技",
+        "鹏鼎控股"
+      ],
+      "detail": "研报关注半导体/PCB(6只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/PCB、PTFE、国产替代",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "生益科技"
+      ],
+      "detail": "研报关注半导体/PCB、PTFE、国产替代(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/PCB、印制电路板",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "中京电子"
+      ],
+      "detail": "研报关注半导体/PCB、印制电路板(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/PCB、电子",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "兴森科技"
+      ],
+      "detail": "研报关注半导体/PCB、电子(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/PCB、电子铜箔",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 0,
+      "top_stocks": [
+        "世运电路",
+        "深南电路"
+      ],
+      "detail": "研报关注半导体/PCB、电子铜箔(2只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/PCB、陶瓷基板",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "博敏电子"
+      ],
+      "detail": "研报关注半导体/PCB、陶瓷基板(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/PCB上游材料",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "菲利华"
+      ],
+      "detail": "研报关注半导体/PCB上游材料(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/PCB上游铜粉、液冷母排、液冷板代工、Q布",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "江南新材"
+      ],
+      "detail": "研报关注半导体/PCB上游铜粉、液冷母排、液冷板代工、Q布(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/PCB耗材",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "四方达"
+      ],
+      "detail": "研报关注半导体/PCB耗材(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/PCB设备",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "东威科技"
+      ],
+      "detail": "研报关注半导体/PCB设备(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/PCB钻针",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 6,
+      "mention_count": 6,
+      "top_stocks": [
+        "沃尔德",
+        "民爆光电",
+        "鼎泰高科",
+        "新锐股份",
+        "欧科亿"
+      ],
+      "detail": "研报关注半导体/PCB钻针(6只股票, 6次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/PCB钻针、棒材国产化",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 2,
+      "top_stocks": [
+        "中钨高新",
+        "博云新材"
+      ],
+      "detail": "研报关注半导体/PCB钻针、棒材国产化(2只股票, 2次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/先进封装、中小封测",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "甬矽电子"
+      ],
+      "detail": "研报关注半导体/先进封装、中小封测(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/先进封装、封测龙头",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "通富微电"
+      ],
+      "detail": "研报关注半导体/先进封装、封测龙头(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/利基存储",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 0,
+      "top_stocks": [
+        "东芯股份",
+        "普冉股份"
+      ],
+      "detail": "研报关注半导体/利基存储(2只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/前驱体、半导体",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "雅克科技"
+      ],
+      "detail": "研报关注半导体/前驱体、半导体(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/功率半导体、IDM",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "士兰微"
+      ],
+      "detail": "研报关注半导体/功率半导体、IDM(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/功率半导体、MEMS",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "华润微"
+      ],
+      "detail": "研报关注半导体/功率半导体、MEMS(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/功率测试、碳化硅",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "九号公司"
+      ],
+      "detail": "研报关注半导体/功率测试、碳化硅(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/半导体",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 7,
+      "mention_count": 4,
+      "top_stocks": [
+        "珂玛科技",
+        "神工股份",
+        "臻宝",
+        "埃科",
+        "华虹半导体"
+      ],
+      "detail": "研报关注半导体/半导体(7只股票, 4次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/半导体、CMP抛光液",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "安集科技"
+      ],
+      "detail": "研报关注半导体/半导体、CMP抛光液(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/半导体、存储芯片",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "闪迪"
+      ],
+      "detail": "研报关注半导体/半导体、存储芯片(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/半导体、氧化铪、锆铪分离",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "三祥新材"
+      ],
+      "detail": "研报关注半导体/半导体、氧化铪、锆铪分离(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/半导体洁净设备、耗材、AI、存储扩产",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "美埃科技"
+      ],
+      "detail": "研报关注半导体/半导体洁净设备、耗材、AI、存储扩产(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/半导体设备",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 12,
+      "mention_count": 5,
+      "top_stocks": [
+        "精测电子",
+        "华峰测控",
+        "盛美上海",
+        "中科飞测",
+        "应用材料"
+      ],
+      "detail": "研报关注半导体/半导体设备(12只股票, 5次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/半导体设备、光芯片",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "华源控股"
+      ],
+      "detail": "研报关注半导体/半导体设备、光芯片(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/半导体零部件",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "正帆科技"
+      ],
+      "detail": "研报关注半导体/半导体零部件(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/存储分销",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 0,
+      "top_stocks": [
+        "香农芯创",
+        "中电港"
+      ],
+      "detail": "研报关注半导体/存储分销(2只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/存储模组",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 0,
+      "top_stocks": [
+        "佰维存储",
+        "协创数据"
+      ],
+      "detail": "研报关注半导体/存储模组(2只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/存储模组、存储分销",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "德明利"
+      ],
+      "detail": "研报关注半导体/存储模组、存储分销(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/存储芯片",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 3,
+      "mention_count": 0,
+      "top_stocks": [
+        "恒烁股份",
+        "多氟多",
+        "同有科技"
+      ],
+      "detail": "研报关注半导体/存储芯片(3只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/存储芯片、DRAM、Nor、Flash",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "北京君正"
+      ],
+      "detail": "研报关注半导体/存储芯片、DRAM、Nor、Flash(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/存储芯片、EEPROM",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "聚辰股份"
+      ],
+      "detail": "研报关注半导体/存储芯片、EEPROM(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/存储芯片、HBM",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 2,
+      "top_stocks": [
+        "SK海力士"
+      ],
+      "detail": "研报关注半导体/存储芯片、HBM(1只股票, 2次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/存储芯片、互联芯片",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "澜起科技"
+      ],
+      "detail": "研报关注半导体/存储芯片、互联芯片(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/封测设备",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 5,
+      "mention_count": 0,
+      "top_stocks": [
+        "芯碁微装",
+        "精智达",
+        "长川科技",
+        "光力科技",
+        "矽电股份"
+      ],
+      "detail": "研报关注半导体/封测设备(5只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/抛光垫、半导体",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "鼎龙股份"
+      ],
+      "detail": "研报关注半导体/抛光垫、半导体(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/树脂、玻纤、玻纤制品",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "长海股份"
+      ],
+      "detail": "研报关注半导体/树脂、玻纤、玻纤制品(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/检测设备、电子布",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "日联科技"
+      ],
+      "detail": "研报关注半导体/检测设备、电子布(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/模拟芯片、AI缺货",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "杰华特"
+      ],
+      "detail": "研报关注半导体/模拟芯片、AI缺货(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/港股、芯片",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "英诺赛科"
+      ],
+      "detail": "研报关注半导体/港股、芯片(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/电子大宗气体、存储上游材料",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "广钢气体"
+      ],
+      "detail": "研报关注半导体/电子大宗气体、存储上游材料(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/电子布、PCB上游",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "国际复材"
+      ],
+      "detail": "研报关注半导体/电子布、PCB上游(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/电子布检测设备、CCL检测设备、机器视觉",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "长荣股份"
+      ],
+      "detail": "研报关注半导体/电子布检测设备、CCL检测设备、机器视觉(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/电子级磷酸、磷化铟、存储芯片",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "兴福电子"
+      ],
+      "detail": "研报关注半导体/电子级磷酸、磷化铟、存储芯片(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/矽晶圆",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "合晶"
+      ],
+      "detail": "研报关注半导体/矽晶圆(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/碳化硅",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 3,
+      "mention_count": 0,
+      "top_stocks": [
+        "晶升股份",
+        "扬杰科技",
+        "天岳先进"
+      ],
+      "detail": "研报关注半导体/碳化硅(3只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/碳化硅、光波导",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "歌尔股份"
+      ],
+      "detail": "研报关注半导体/碳化硅、光波导(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/碳化硅、功率芯片",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "东微半导"
+      ],
+      "detail": "研报关注半导体/碳化硅、功率芯片(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/碳化硅、模拟功率器件",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "芯联集成"
+      ],
+      "detail": "研报关注半导体/碳化硅、模拟功率器件(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/粗纱、电子布",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 3,
+      "top_stocks": [
+        "中国巨石"
+      ],
+      "detail": "研报关注半导体/粗纱、电子布(1只股票, 3次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/芯片",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 4,
+      "mention_count": 0,
+      "top_stocks": [
+        "长电科技",
+        "兆易创新",
+        "北方华创",
+        "大普微"
+      ],
+      "detail": "研报关注半导体/芯片(4只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/被动元件、MLCC",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "风华高科"
+      ],
+      "detail": "研报关注半导体/被动元件、MLCC(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/载体铜箔、mSAP",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "方邦股份"
+      ],
+      "detail": "研报关注半导体/载体铜箔、mSAP(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/铜箔、HVLP",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "铜冠铜箔"
+      ],
+      "detail": "研报关注半导体/铜箔、HVLP(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/铜箔、PCB",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "德福科技"
+      ],
+      "detail": "研报关注半导体/铜箔、PCB(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/人工智能/AI算力、PCB专用设备、回流焊",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "劲拓股份"
+      ],
+      "detail": "研报关注半导体/人工智能/AI算力、PCB专用设备、回流焊(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/人工智能/GPU芯片、钙钛矿设备、纸包装",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "大胜达"
+      ],
+      "detail": "研报关注半导体/人工智能/GPU芯片、钙钛矿设备、纸包装(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/人工智能/PCB、AI服务器",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "方正电机"
+      ],
+      "detail": "研报关注半导体/人工智能/PCB、AI服务器(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/人工智能/光通信、AI算力、DCI、硅光芯片",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "光迅科技"
+      ],
+      "detail": "研报关注半导体/人工智能/光通信、AI算力、DCI、硅光芯片(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/人工智能/国产算力、AI芯片",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "寒武纪"
+      ],
+      "detail": "研报关注半导体/人工智能/国产算力、AI芯片(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/人工智能/国产算力、Switch芯片",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "盛科通信"
+      ],
+      "detail": "研报关注半导体/人工智能/国产算力、Switch芯片(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/人工智能/国产算力、半导体",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "芯原股份"
+      ],
+      "detail": "研报关注半导体/人工智能/国产算力、半导体(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/人工智能/国产算力、晶圆代工",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "中芯国际"
+      ],
+      "detail": "研报关注半导体/人工智能/国产算力、晶圆代工(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/人工智能/国产算力、芯片定制",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "灿芯股份"
+      ],
+      "detail": "研报关注半导体/人工智能/国产算力、芯片定制(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/人工智能/国产算力、通信芯片",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "翱捷科技"
+      ],
+      "detail": "研报关注半导体/人工智能/国产算力、通信芯片(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/化工/沥青基碳纤维、光纤热场、半导体热场",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "信德新材"
+      ],
+      "detail": "研报关注半导体/化工/沥青基碳纤维、光纤热场、半导体热场(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/化工/金刚石散热、AI芯片散热、射频微波散热、核聚变、量子传感",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "国机精工"
+      ],
+      "detail": "研报关注半导体/化工/金刚石散热、AI芯片散热、射频微波散热、核聚变、量子传感(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/新能源/氮化镓、第三代半导体、AI新能源",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "恒铭达"
+      ],
+      "detail": "研报关注半导体/新能源/氮化镓、第三代半导体、AI新能源(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/新能源/锂电铜箔、新能源",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "诺德股份"
+      ],
+      "detail": "研报关注半导体/新能源/锂电铜箔、新能源(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/汽车/IGBT、汽车",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "斯达半导"
+      ],
+      "detail": "研报关注半导体/汽车/IGBT、汽车(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/通信/CPO光模块、存储芯片",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "科翔股份"
+      ],
+      "detail": "研报关注半导体/通信/CPO光模块、存储芯片(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/通信/PCB、光通信",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "景旺电子"
+      ],
+      "detail": "研报关注半导体/通信/PCB、光通信(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/通信/光纤、3D打印、PCB设备、玻璃基板、液冷",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 3,
+      "top_stocks": [
+        "大族激光"
+      ],
+      "detail": "研报关注半导体/通信/光纤、3D打印、PCB设备、玻璃基板、液冷(1只股票, 3次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/通信/光芯片、光纤、超导",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "永鼎股份"
+      ],
+      "detail": "研报关注半导体/通信/光芯片、光纤、超导(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/通信/光芯片、通信",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "源杰科技"
+      ],
+      "detail": "研报关注半导体/通信/光芯片、通信(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/通信/光通信、EML芯片",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "长光华芯"
+      ],
+      "detail": "研报关注半导体/通信/光通信、EML芯片(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/通信/光通信、光芯片",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "仕佳光子"
+      ],
+      "detail": "研报关注半导体/通信/光通信、光芯片(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/通信/光通信、光芯片、PCB",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "东山精密"
+      ],
+      "detail": "研报关注半导体/通信/光通信、光芯片、PCB(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/通信/液冷、通信、半导体",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "美利信"
+      ],
+      "detail": "研报关注半导体/通信/液冷、通信、半导体(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体/通信/高端测试仪器、光通信测试、高速存储测试",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "联讯仪器"
+      ],
+      "detail": "研报关注半导体/通信/高端测试仪器、光通信测试、高速存储测试(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体封测/半导体封测",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "华天科技"
+      ],
+      "detail": "研报关注半导体封测/半导体封测(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体封测/半导体封测、CPO、GAN",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "晶方科技"
+      ],
+      "detail": "研报关注半导体封测/半导体封测、CPO、GAN(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体新技术/电子元件、PCB",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 4,
+      "mention_count": 0,
+      "top_stocks": [
+        "弘信电子",
+        "崇达技术",
+        "超声电子",
+        "四会富仕"
+      ],
+      "detail": "研报关注半导体新技术/电子元件、PCB(4只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体新技术/铜箔",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 0,
+      "top_stocks": [
+        "嘉元科技",
+        "隆扬电子"
+      ],
+      "detail": "研报关注半导体新技术/铜箔(2只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体新技术/铜箔、固态电池",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 0,
+      "top_stocks": [
+        "中一科技",
+        "海亮股份"
+      ],
+      "detail": "研报关注半导体新技术/铜箔、固态电池(2只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体新材料/MLCC镍粉",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 0,
+      "top_stocks": [
+        "商络电子",
+        "昀冢科技"
+      ],
+      "detail": "研报关注半导体新材料/MLCC镍粉(2只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体新材料/半导体靶材",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 5,
+      "mention_count": 0,
+      "top_stocks": [
+        "江丰电子",
+        "有研新材",
+        "阿石创",
+        "欧莱新材",
+        "隆华科技"
+      ],
+      "detail": "研报关注半导体新材料/半导体靶材(5只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体新材料/玻璃基板、Q布、抗辐照玻璃",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 0,
+      "top_stocks": [
+        "戈碧迦",
+        "京东"
+      ],
+      "detail": "研报关注半导体新材料/玻璃基板、Q布、抗辐照玻璃(2只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "半导体设备/激光设备、3D打印",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "金橙子"
+      ],
+      "detail": "研报关注半导体设备/激光设备、3D打印(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "商业航天/商业航天",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 8,
+      "mention_count": 0,
+      "top_stocks": [
+        "航天动力",
+        "航天环宇",
+        "臻镭科技",
+        "铖昌科技",
+        "乾照光电"
+      ],
+      "detail": "研报关注商业航天/商业航天(8只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "固态电池/固态电池、锂电材料",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 4,
+      "mention_count": 0,
+      "top_stocks": [
+        "厦钨新能",
+        "当升科技",
+        "上海洗霸",
+        "冠宇"
+      ],
+      "detail": "研报关注固态电池/固态电池、锂电材料(4只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "地方国资创投/地方国资投资",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 0,
+      "top_stocks": [
+        "深圳能源",
+        "张江高科"
+      ],
+      "detail": "研报关注地方国资创投/地方国资投资(2只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "基建/SST/变压器",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "正泰电器"
+      ],
+      "detail": "研报关注基建/SST/变压器(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "基建/固态变压器",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "TCL"
+      ],
+      "detail": "研报关注基建/固态变压器(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "基建/电网设备、T",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 0,
+      "top_stocks": [
+        "中国西电",
+        "特锐德"
+      ],
+      "detail": "研报关注基建/电网设备、T(2只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "存储芯片/内存接口芯片",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "耐科装备"
+      ],
+      "detail": "研报关注存储芯片/内存接口芯片(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "存储芯片/存储芯片",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 0,
+      "top_stocks": [
+        "国科微",
+        "中科仪"
+      ],
+      "detail": "研报关注存储芯片/存储芯片(2只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "存储芯片/检测设备",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 5,
+      "mention_count": 0,
+      "top_stocks": [
+        "双元科技",
+        "奕瑞科技",
+        "同星",
+        "博杰股份",
+        "荣旗科技"
+      ],
+      "detail": "研报关注存储芯片/检测设备(5只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "家电/家电",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "海尔智家"
+      ],
+      "detail": "研报关注家电/家电(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "工程机械/工程机械",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 10,
+      "mention_count": 0,
+      "top_stocks": [
+        "徐工机械",
+        "浙江鼎力",
+        "同力股份",
+        "杭叉集团",
+        "中联重科"
+      ],
+      "detail": "研报关注工程机械/工程机械(10只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "工程机械/矿机",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 3,
+      "mention_count": 0,
+      "top_stocks": [
+        "运机集团",
+        "南矿集团",
+        "耐普矿机"
+      ],
+      "detail": "研报关注工程机械/矿机(3只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "新能源/AI、新能源、上游资产",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 0,
+      "top_stocks": [
+        "汇川技术",
+        "信捷电气"
+      ],
+      "detail": "研报关注新能源/AI、新能源、上游资产(2只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "新能源/UPS、储能、AI长时储能",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "科士达"
+      ],
+      "detail": "研报关注新能源/UPS、储能、AI长时储能(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "新能源/储能",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 11,
+      "mention_count": 0,
+      "top_stocks": [
+        "海博思创",
+        "鹏辉能源",
+        "首航新能",
+        "正泰电源",
+        "禾迈"
+      ],
+      "detail": "研报关注新能源/储能(11只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "新能源/户用储能",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "派能科技"
+      ],
+      "detail": "研报关注新能源/户用储能(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "新能源/新能源电力",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 2,
+      "top_stocks": [
+        "金开新能",
+        "上海电力"
+      ],
+      "detail": "研报关注新能源/新能源电力(2只股票, 2次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "新能源/锂电材料、VC添加剂",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "永太科技"
+      ],
+      "detail": "研报关注新能源/锂电材料、VC添加剂(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "新能源/锂电池、AIDC、BBU",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "蔚蓝锂芯"
+      ],
+      "detail": "研报关注新能源/锂电池、AIDC、BBU(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "新能源/锂电池、新能源",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 2,
+      "top_stocks": [
+        "宁德时代"
+      ],
+      "detail": "研报关注新能源/锂电池、新能源(1只股票, 2次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "新能源/锂电结构件",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "欣旺达"
+      ],
+      "detail": "研报关注新能源/锂电结构件(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "新能源/锂电设备",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "海目星"
+      ],
+      "detail": "研报关注新能源/锂电设备(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "新能源/风电",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "东方电缆"
+      ],
+      "detail": "研报关注新能源/风电(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "新能源/风电设备、海洋工程",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "大金重工"
+      ],
+      "detail": "研报关注新能源/风电设备、海洋工程(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "新能源/风电设备、海风、单桩",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "天顺风能"
+      ],
+      "detail": "研报关注新能源/风电设备、海风、单桩(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "新能源/医药/生物柴油、SAF、UCO",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 2,
+      "top_stocks": [
+        "山高环能"
+      ],
+      "detail": "研报关注新能源/医药/生物柴油、SAF、UCO(1只股票, 2次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "新能源/医药/生物柴油、SAF、UCO、绿电",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "朗坤科技"
+      ],
+      "detail": "研报关注新能源/医药/生物柴油、SAF、UCO、绿电(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "新能源/汽车/半固态电池、隔膜",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "星源材质"
+      ],
+      "detail": "研报关注新能源/汽车/半固态电池、隔膜(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "新能源/汽车/锂电、储能、固态电池",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "亿纬锂能"
+      ],
+      "detail": "研报关注新能源/汽车/锂电、储能、固态电池(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "新能源/汽车/锂电设备、固态电池",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "纳科诺尔"
+      ],
+      "detail": "研报关注新能源/汽车/锂电设备、固态电池(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "日本替代/半导体设备",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 3,
+      "mention_count": 0,
+      "top_stocks": [
+        "强一股份",
+        "和林微纳",
+        "华峰测控"
+      ],
+      "detail": "研报关注日本替代/半导体设备(3只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "晶圆代工/fabless企业",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "炬芯科技"
+      ],
+      "detail": "研报关注晶圆代工/fabless企业(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "晶圆代工/晶圆代工",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 0,
+      "top_stocks": [
+        "晶合集成",
+        "盛合晶微"
+      ],
+      "detail": "研报关注晶圆代工/晶圆代工(2只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "有色金属/钨",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 3,
+      "mention_count": 0,
+      "top_stocks": [
+        "章源钨业",
+        "翔鹭钨业",
+        "华锐精密"
+      ],
+      "detail": "研报关注有色金属/钨(3只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "有色金属/铀",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "中国铀业"
+      ],
+      "detail": "研报关注有色金属/铀(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "有色金属/铜、基建",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 8,
+      "mention_count": 0,
+      "top_stocks": [
+        "中国中铁",
+        "四川路桥",
+        "万国数据",
+        "大位科技",
+        "奥飞数据"
+      ],
+      "detail": "研报关注有色金属/铜、基建(8只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "有色金属/镍、钴、钨、三元前驱体",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 3,
+      "mention_count": 0,
+      "top_stocks": [
+        "格林美",
+        "力勤",
+        "新疆新鑫"
+      ],
+      "detail": "研报关注有色金属/镍、钴、钨、三元前驱体(3只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "机器人/家用电器、机器人",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "科沃斯"
+      ],
+      "detail": "研报关注机器人/家用电器、机器人(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "机器人/机器人",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 49,
+      "mention_count": 0,
+      "top_stocks": [
+        "宁波华翔",
+        "东华测试",
+        "双环传动",
+        "步科股份",
+        "力星股份"
+      ],
+      "detail": "研报关注机器人/机器人(49只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "机器人/机器人、AI",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "峰岹科技"
+      ],
+      "detail": "研报关注机器人/机器人、AI(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "机器人/机器人、丝杠",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 3,
+      "mention_count": 0,
+      "top_stocks": [
+        "五洲新春",
+        "恒立液压",
+        "金沃股份"
+      ],
+      "detail": "研报关注机器人/机器人、丝杠(3只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "机器人/机器人、传感器",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 0,
+      "top_stocks": [
+        "汉威科技",
+        "奥比中光"
+      ],
+      "detail": "研报关注机器人/机器人、传感器(2只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "机器人/机器人、光伏、T链",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "科森科技"
+      ],
+      "detail": "研报关注机器人/机器人、光伏、T链(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "机器人/机器人、六维力传感器",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "安培龙"
+      ],
+      "detail": "研报关注机器人/机器人、六维力传感器(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "机器人/机器人、塑料件",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "恒勃股份"
+      ],
+      "detail": "研报关注机器人/机器人、塑料件(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "机器人/机器人、总成",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 3,
+      "mention_count": 0,
+      "top_stocks": [
+        "拓普集团",
+        "震裕科技",
+        "新泉股份"
+      ],
+      "detail": "研报关注机器人/机器人、总成(3只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "机器人/机器人、模组",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "蓝思科技"
+      ],
+      "detail": "研报关注机器人/机器人、模组(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "机器人/机器人、汽车零部件",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 12,
+      "mention_count": 0,
+      "top_stocks": [
+        "陆鑫通用",
+        "伯特利",
+        "上汽集团",
+        "北汽蓝谷",
+        "赛力斯"
+      ],
+      "detail": "研报关注机器人/机器人、汽车零部件(12只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "机器人/机器人、汽零",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "雷赛智能"
+      ],
+      "detail": "研报关注机器人/机器人、汽零(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "机器人/机器人、电子皮肤",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 0,
+      "top_stocks": [
+        "福莱新材",
+        "日盈电子"
+      ],
+      "detail": "研报关注机器人/机器人、电子皮肤(2只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "机器人/机器人、电机",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 3,
+      "mention_count": 0,
+      "top_stocks": [
+        "兆威机电",
+        "伟创电气",
+        "恒帅股份"
+      ],
+      "detail": "研报关注机器人/机器人、电机(3只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "机器人/机器人、结构件",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 4,
+      "mention_count": 0,
+      "top_stocks": [
+        "领益智造",
+        "长盈精密",
+        "福赛科技",
+        "爱柯迪"
+      ],
+      "detail": "研报关注机器人/机器人、结构件(4只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "机器人/机器人、谐波减速器",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 0,
+      "top_stocks": [
+        "绿的谐波",
+        "斯菱智驱"
+      ],
+      "detail": "研报关注机器人/机器人、谐波减速器(2只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "机器人/自动驾驶、重载具身智能、无人矿卡、无人重卡、机器人",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "希迪智驾"
+      ],
+      "detail": "研报关注机器人/自动驾驶、重载具身智能、无人矿卡、无人重卡、机器人(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "机器人/基建/燃气发电机组、SOFC",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "潍柴动力"
+      ],
+      "detail": "研报关注机器人/基建/燃气发电机组、SOFC(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "机器人/新能源/机器人、新能源",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "科达利"
+      ],
+      "detail": "研报关注机器人/新能源/机器人、新能源(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "机器人/汽车/汽车零部件、机器人",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "模塑科技"
+      ],
+      "detail": "研报关注机器人/汽车/汽车零部件、机器人(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "氢能/SAF（绿色液体燃料）",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 8,
+      "mention_count": 0,
+      "top_stocks": [
+        "ST嘉澳",
+        "卓越新能",
+        "嘉泽新能",
+        "电投绿能",
+        "中集安瑞科"
+      ],
+      "detail": "研报关注氢能/SAF（绿色液体燃料）(8只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "氢能/化工设备",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "双良节能"
+      ],
+      "detail": "研报关注氢能/化工设备(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "氢能/化工设备、氢能",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "华电科工"
+      ],
+      "detail": "研报关注氢能/化工设备、氢能(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "氢能/氢能车零部件",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "雄韬股份"
+      ],
+      "detail": "研报关注氢能/氢能车零部件(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "汽车/汽车",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 3,
+      "mention_count": 0,
+      "top_stocks": [
+        "长安汽车",
+        "蔚来",
+        "小鹏"
+      ],
+      "detail": "研报关注汽车/汽车(3只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "汽车/汽车、MPV、增程式电动车",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "零跑"
+      ],
+      "detail": "研报关注汽车/汽车、MPV、增程式电动车(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "汽车/汽车整车、汽车",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "长城汽车"
+      ],
+      "detail": "研报关注汽车/汽车整车、汽车(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "汽车/汽车整车、高端制造",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 2,
+      "top_stocks": [
+        "江淮汽车"
+      ],
+      "detail": "研报关注汽车/汽车整车、高端制造(1只股票, 2次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "汽车/液冷、汽车零部件、连接器",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "溯联股份"
+      ],
+      "detail": "研报关注汽车/液冷、汽车零部件、连接器(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "汽车/液冷、热管理",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "银轮股份"
+      ],
+      "detail": "研报关注汽车/液冷、热管理(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "汽车/科技巨头、汽车",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "特斯拉"
+      ],
+      "detail": "研报关注汽车/科技巨头、汽车(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "汽车整车/汽车整车、固态电池",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 0,
+      "top_stocks": [
+        "长城",
+        "奇瑞"
+      ],
+      "detail": "研报关注汽车整车/汽车整车、固态电池(2只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "油气/油气",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 6,
+      "mention_count": 0,
+      "top_stocks": [
+        "中曼石油",
+        "中国石油",
+        "石化油服",
+        "潜能恒信",
+        "贵州燃气"
+      ],
+      "detail": "研报关注油气/油气(6只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "消费/休闲食品、坚果、零食量贩",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "洽洽食品"
+      ],
+      "detail": "研报关注消费/休闲食品、坚果、零食量贩(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "消费/家电、智能家居、智能制造",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "美的集团"
+      ],
+      "detail": "研报关注消费/家电、智能家居、智能制造(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "消费/消费电子、果链",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 0,
+      "top_stocks": [
+        "铂力特",
+        "华曙高科"
+      ],
+      "detail": "研报关注消费/消费电子、果链(2只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "消费/消费电子、科技巨头",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "苹果"
+      ],
+      "detail": "研报关注消费/消费电子、科技巨头(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "消费/珠宝首饰、黄金饰品",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "六福集团"
+      ],
+      "detail": "研报关注消费/珠宝首饰、黄金饰品(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "消费/纺织机械、智能制造",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "日发精机"
+      ],
+      "detail": "研报关注消费/纺织机械、智能制造(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "消费/运动服饰零售",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "滔搏"
+      ],
+      "detail": "研报关注消费/运动服饰零售(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "消费/运动服饰零售、体育用品",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 25,
+      "top_stocks": [
+        "东缆"
+      ],
+      "detail": "研报关注消费/运动服饰零售、体育用品(1只股票, 25次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "消费/零售",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 15,
+      "mention_count": 0,
+      "top_stocks": [
+        "杭州解百",
+        "汉朔科技",
+        "孩子王",
+        "百联股份",
+        "三江购物"
+      ],
+      "detail": "研报关注消费/零售(15只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "消费/零食量贩、零售变革",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "万辰集团"
+      ],
+      "detail": "研报关注消费/零食量贩、零售变革(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "消费/预调酒、威士忌",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "百润股份"
+      ],
+      "detail": "研报关注消费/预调酒、威士忌(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "消费/食品饮料",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 6,
+      "mention_count": 0,
+      "top_stocks": [
+        "日辰股份",
+        "威龙股份",
+        "酒鬼酒",
+        "交大昂立",
+        "一致魔芋"
+      ],
+      "detail": "研报关注消费/食品饮料(6只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "消费/食品饮料、休闲零食",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "有友食品"
+      ],
+      "detail": "研报关注消费/食品饮料、休闲零食(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "消费/食品饮料、功能饮料",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "东鹏饮料"
+      ],
+      "detail": "研报关注消费/食品饮料、功能饮料(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "消费/汽车/整车、自主品牌",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "吉利"
+      ],
+      "detail": "研报关注消费/汽车/整车、自主品牌(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "燃气轮机/余热锅炉",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "西子洁能"
+      ],
+      "detail": "研报关注燃气轮机/余热锅炉(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "燃气轮机/军工、航空",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 3,
+      "mention_count": 0,
+      "top_stocks": [
+        "航亚科技",
+        "广东宏大",
+        "中科星图"
+      ],
+      "detail": "研报关注燃气轮机/军工、航空(3只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "燃气轮机/燃气轮机",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 7,
+      "mention_count": 0,
+      "top_stocks": [
+        "海联讯",
+        "福鞍股份",
+        "长源东谷",
+        "隆达股份",
+        "崇德科技"
+      ],
+      "detail": "研报关注燃气轮机/燃气轮机(7只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "燃气轮机/燃气轮机、军工",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "中航重机"
+      ],
+      "detail": "研报关注燃气轮机/燃气轮机、军工(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "燃气轮机/燃气轮机、电力设备",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "动力新科"
+      ],
+      "detail": "研报关注燃气轮机/燃气轮机、电力设备(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "电子元件/电子元件",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 9,
+      "mention_count": 0,
+      "top_stocks": [
+        "好利科技",
+        "艾华集团",
+        "麦捷科技",
+        "泰晶科技",
+        "惠伦晶体"
+      ],
+      "detail": "研报关注电子元件/电子元件(9只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "稳定币/稳定币",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 5,
+      "mention_count": 0,
+      "top_stocks": [
+        "拉卡拉",
+        "四方精创",
+        "新国都",
+        "华峰超纤",
+        "御银股份"
+      ],
+      "detail": "研报关注稳定币/稳定币(5只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "稳定币/稳定币、量子科技",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 0,
+      "top_stocks": [
+        "东信和平",
+        "恒宝股份"
+      ],
+      "detail": "研报关注稳定币/稳定币、量子科技(2只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "算力/AI电源",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "威尔高"
+      ],
+      "detail": "研报关注算力/AI电源(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "算力/交换机",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "华勤"
+      ],
+      "detail": "研报关注算力/交换机(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "算力/数据库",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 0,
+      "top_stocks": [
+        "达梦数据",
+        "海量数据"
+      ],
+      "detail": "研报关注算力/数据库(2只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "算力/算力云",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "首都在线"
+      ],
+      "detail": "研报关注算力/算力云(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "算力/算力租赁",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 7,
+      "mention_count": 0,
+      "top_stocks": [
+        "中贝通信",
+        "华胜天成",
+        "ST金刚",
+        "盛视科技",
+        "智微智能"
+      ],
+      "detail": "研报关注算力/算力租赁(7只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "船舶制造/船舶制造",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "ST松发"
+      ],
+      "detail": "研报关注船舶制造/船舶制造(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "芯片研制/半导体",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 13,
+      "mention_count": 0,
+      "top_stocks": [
+        "彤程新材",
+        "华海诚科",
+        "华海清科",
+        "汇成真空",
+        "芯朋微"
+      ],
+      "detail": "研报关注芯片研制/半导体(13只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "证券/证券",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 8,
+      "mention_count": 0,
+      "top_stocks": [
+        "天风证券",
+        "西南证券",
+        "中泰证券",
+        "东吴证券",
+        "华泰证券"
+      ],
+      "detail": "研报关注证券/证券(8只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "通信/CPO交换机、光通信",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "致尚科技"
+      ],
+      "detail": "研报关注通信/CPO交换机、光通信(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "通信/CPO光模块",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 0,
+      "top_stocks": [
+        "汇绿生态",
+        "华工科技"
+      ],
+      "detail": "研报关注通信/CPO光模块(2只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "通信/MicroLED、光通信",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "兆驰股份"
+      ],
+      "detail": "研报关注通信/MicroLED、光通信(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "通信/仪器仪表、光通信测试设备",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "优利德"
+      ],
+      "detail": "研报关注通信/仪器仪表、光通信测试设备(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "通信/光纤、液冷",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "远东股份"
+      ],
+      "detail": "研报关注通信/光纤、液冷(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "通信/光通信",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 0,
+      "top_stocks": [
+        "亨通光电",
+        "天孚通信"
+      ],
+      "detail": "研报关注通信/光通信(2只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "通信/光通信、交换机、DTC平台",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "飞速创新"
+      ],
+      "detail": "研报关注通信/光通信、交换机、DTC平台(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "通信/光通信、光器件",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "宇瞳光学"
+      ],
+      "detail": "研报关注通信/光通信、光器件(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "通信/光通信、光模块设备",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "罗博特科"
+      ],
+      "detail": "研报关注通信/光通信、光模块设备(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "通信/光通信、光纤",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "长盈通"
+      ],
+      "detail": "研报关注通信/光通信、光纤(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "通信/光通信、光纤连接器",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 2,
+      "top_stocks": [
+        "太辰光"
+      ],
+      "detail": "研报关注通信/光通信、光纤连接器(1只股票, 2次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "通信/光通信、激光器、AI",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "杰普特"
+      ],
+      "detail": "研报关注通信/光通信、激光器、AI(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "通信/光通信测试设备",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "信测通信"
+      ],
+      "detail": "研报关注通信/光通信测试设备(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "通信/星链通信、铝合金壳体",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "旭升集团"
+      ],
+      "detail": "研报关注通信/星链通信、铝合金壳体(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "通信/电子材料、光通信",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 1,
+      "top_stocks": [
+        "唯特偶"
+      ],
+      "detail": "研报关注通信/电子材料、光通信(1只股票, 1次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "通信/电线电缆、光通信",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "杭电股份"
+      ],
+      "detail": "研报关注通信/电线电缆、光通信(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "通信/硅光、光通信",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "剑桥科技"
+      ],
+      "detail": "研报关注通信/硅光、光通信(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "通信/互联网/卫星互联网、通信",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "海格通信"
+      ],
+      "detail": "研报关注通信/互联网/卫星互联网、通信(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "通信/互联网/卫星互联网、通信设备",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "烽火通信"
+      ],
+      "detail": "研报关注通信/互联网/卫星互联网、通信设备(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "量子科技/算力、量子科技",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "科大国创"
+      ],
+      "detail": "研报关注量子科技/算力、量子科技(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "量子科技/量子科技",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 0,
+      "top_stocks": [
+        "神州信息",
+        "国盾量子"
+      ],
+      "detail": "研报关注量子科技/量子科技(2只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "金融/保险",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 4,
+      "mention_count": 4,
+      "top_stocks": [
+        "中国平安",
+        "中国人寿",
+        "中国太保",
+        "新华保险"
+      ],
+      "detail": "研报关注金融/保险(4只股票, 4次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "金融/券商",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 5,
+      "mention_count": 5,
+      "top_stocks": [
+        "长江通信",
+        "国泰海通",
+        "招商证券",
+        "中金",
+        "财通证券"
+      ],
+      "detail": "研报关注金融/券商(5只股票, 5次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "金融/证券",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 3,
+      "mention_count": 5,
+      "top_stocks": [
+        "广发证券",
+        "中信",
+        "华泰"
+      ],
+      "detail": "研报关注金融/证券(3只股票, 5次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "金融/证券、金融科技",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 2,
+      "top_stocks": [
+        "东财",
+        "指南针"
+      ],
+      "detail": "研报关注金融/证券、金融科技(2只股票, 2次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "金融/金融科技",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "同花顺"
+      ],
+      "detail": "研报关注金融/金融科技(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "金融/银行",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "招商银行"
+      ],
+      "detail": "研报关注金融/银行(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "金融/银行、中小银行",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 2,
+      "mention_count": 0,
+      "top_stocks": [
+        "南京证券",
+        "渝农"
+      ],
+      "detail": "研报关注金融/银行、中小银行(2只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "金融/银行、国有大行",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 5,
+      "mention_count": 0,
+      "top_stocks": [
+        "交行",
+        "工行",
+        "建行",
+        "中行",
+        "农行"
+      ],
+      "detail": "研报关注金融/银行、国有大行(5只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "钛白粉/钛白粉涨价概念",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 3,
+      "mention_count": 0,
+      "top_stocks": [
+        "龙佰集团",
+        "天原股份",
+        "鲁北化工"
+      ],
+      "detail": "研报关注钛白粉/钛白粉涨价概念(3只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "锂电材料/六氟磷酸锂",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 1,
+      "mention_count": 0,
+      "top_stocks": [
+        "天际股份"
+      ],
+      "detail": "研报关注锂电材料/六氟磷酸锂(1只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "锂电材料/锂电材料",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 9,
+      "mention_count": 0,
+      "top_stocks": [
+        "鼎胜新材",
+        "湖南裕能",
+        "尚太科技",
+        "璞泰来",
+        "万润新能"
+      ],
+      "detail": "研报关注锂电材料/锂电材料(9只股票, 0次提及)，博主未覆盖"
+    },
+    {
+      "type": "研报独有",
+      "concept": "食品饮料/食品饮料",
+      "blogger": "(所有博主)",
+      "blogger_uid": "",
+      "stock_count": 6,
+      "mention_count": 0,
+      "top_stocks": [
+        "安井食品",
+        "盐津铺子",
+        "三只松鼠",
+        "海天味业",
+        "千禾味业"
+      ],
+      "detail": "研报关注食品饮料/食品饮料(6只股票, 0次提及)，博主未覆盖"
+    }
+  ]
+}
