@@ -2,118 +2,6 @@
   "changes": [
     {
       "type": "first_mention",
-      "blogger": "雪球大V-1034624503",
-      "concept": "工业母机",
-      "date": "2026-06-28",
-      "detail": "雪球V 首次关注 工业母机"
-    },
-    {
-      "type": "first_mention",
-      "blogger": "雪球大V-1034624503",
-      "concept": "汽车零部件",
-      "date": "2026-06-28",
-      "detail": "雪球V 首次关注 汽车零部件"
-    },
-    {
-      "type": "first_mention",
-      "blogger": "白河愁博士",
-      "concept": "CPO",
-      "date": "2026-06-28",
-      "detail": "白河愁 首次关注 CPO"
-    },
-    {
-      "type": "first_mention",
-      "blogger": "白河愁博士",
-      "concept": "MPO",
-      "date": "2026-06-28",
-      "detail": "白河愁 首次关注 MPO"
-    },
-    {
-      "type": "first_mention",
-      "blogger": "白河愁博士",
-      "concept": "PCB",
-      "date": "2026-06-28",
-      "detail": "白河愁 首次关注 PCB"
-    },
-    {
-      "type": "first_mention",
-      "blogger": "白河愁博士",
-      "concept": "先进制程",
-      "date": "2026-06-28",
-      "detail": "白河愁 首次关注 先进制程"
-    },
-    {
-      "type": "first_mention",
-      "blogger": "白河愁博士",
-      "concept": "光伏",
-      "date": "2026-06-28",
-      "detail": "白河愁 首次关注 光伏"
-    },
-    {
-      "type": "first_mention",
-      "blogger": "白河愁博士",
-      "concept": "其他半导体",
-      "date": "2026-06-28",
-      "detail": "白河愁 首次关注 其他半导体"
-    },
-    {
-      "type": "first_mention",
-      "blogger": "白河愁博士",
-      "concept": "洁净室",
-      "date": "2026-06-28",
-      "detail": "白河愁 首次关注 洁净室"
-    },
-    {
-      "type": "first_mention",
-      "blogger": "白河愁博士",
-      "concept": "电池",
-      "date": "2026-06-28",
-      "detail": "白河愁 首次关注 电池"
-    },
-    {
-      "type": "first_mention",
-      "blogger": "白河愁博士",
-      "concept": "锂电",
-      "date": "2026-06-28",
-      "detail": "白河愁 首次关注 锂电"
-    },
-    {
-      "type": "first_mention",
-      "blogger": "白河愁博士",
-      "concept": "光刻胶",
-      "date": "2026-06-29",
-      "detail": "白河愁 首次关注 光刻胶"
-    },
-    {
-      "type": "first_mention",
-      "blogger": "白河愁博士",
-      "concept": "电子化学品",
-      "date": "2026-06-29",
-      "detail": "白河愁 首次关注 电子化学品"
-    },
-    {
-      "type": "first_mention",
-      "blogger": "白河愁博士",
-      "concept": "创新药",
-      "date": "2026-07-02",
-      "detail": "白河愁 首次关注 创新药"
-    },
-    {
-      "type": "first_mention",
-      "blogger": "白河愁博士",
-      "concept": "证券",
-      "date": "2026-07-02",
-      "detail": "白河愁 首次关注 证券"
-    },
-    {
-      "type": "first_mention",
-      "blogger": "白河愁博士",
-      "concept": "商业航天",
-      "date": "2026-07-03",
-      "detail": "白河愁 首次关注 商业航天"
-    },
-    {
-      "type": "first_mention",
       "blogger": "波king（只爱甜妹/盘后信息分享）",
       "concept": "CoWoS/先进封装",
       "date": "2026-07-06",
@@ -134,13 +22,6 @@
       "detail": "波king 首次关注 光刻胶"
     },
     {
-      "type": "first_mention",
-      "blogger": "派大星皮皮",
-      "concept": "培育钻石",
-      "date": "2026-06-28",
-      "detail": "派大星 首次关注 培育钻石"
-    },
-    {
       "type": "intensity_surge",
       "blogger": "白河愁博士",
       "concept": "商业航天",
@@ -152,10 +33,10 @@
       "detail": "白河愁 对 商业航天 持续强化 (1.9→4.5次/天, ↑133%)"
     }
   ],
-  "updated": "2026-07-28 22:06:45",
+  "updated": "2026-08-04 20:43:48",
   "count": {
     "sentiment_flip": 0,
-    "first_mention": 20,
+    "first_mention": 3,
     "intensity_surge": 1,
     "resonance_form": 0,
     "divergence": 0,
@@ -165,6 +46,6 @@
     "concentration_surge": 0,
     "concentration_drop": 0,
     "rapid_turnover": 0,
-    "total": 21
+    "total": 4
   }
 }
