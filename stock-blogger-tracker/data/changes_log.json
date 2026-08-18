@@ -3,27 +3,6 @@
     {
       "type": "first_mention",
       "blogger": "波king（只爱甜妹/盘后信息分享）",
-      "concept": "人工智能",
-      "date": "2026-07-16",
-      "detail": "波king 首次关注 人工智能"
-    },
-    {
-      "type": "first_mention",
-      "blogger": "波king（只爱甜妹/盘后信息分享）",
-      "concept": "光刻机",
-      "date": "2026-07-16",
-      "detail": "波king 首次关注 光刻机"
-    },
-    {
-      "type": "first_mention",
-      "blogger": "波king（只爱甜妹/盘后信息分享）",
-      "concept": "元件",
-      "date": "2026-07-16",
-      "detail": "波king 首次关注 元件"
-    },
-    {
-      "type": "first_mention",
-      "blogger": "波king（只爱甜妹/盘后信息分享）",
       "concept": "SiC/GaN",
       "date": "2026-07-19",
       "detail": "波king 首次关注 SiC/GaN"
@@ -849,10 +828,10 @@
       "detail": "波king 对 小金属 持续强化 (0.3→0.7次/天, ↑133%)"
     }
   ],
-  "updated": "2026-08-13 16:27:04",
+  "updated": "2026-08-18 15:48:33",
   "count": {
     "sentiment_flip": 0,
-    "first_mention": 118,
+    "first_mention": 115,
     "intensity_surge": 2,
     "resonance_form": 0,
     "divergence": 0,
@@ -862,6 +841,6 @@
     "concentration_surge": 0,
     "concentration_drop": 0,
     "rapid_turnover": 0,
-    "total": 120
+    "total": 117
   }
 }
