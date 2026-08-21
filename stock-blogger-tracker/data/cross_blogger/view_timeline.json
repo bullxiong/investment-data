@@ -3,7 +3,8 @@
     "雪球大V-1034624503",
     "白河愁博士",
     "波king（只爱甜妹/盘后信息分享）",
-    "派大星皮皮"
+    "派大星皮皮",
+    "知乎奥特之父"
   ],
   "timeline": [
     {
@@ -2102,6 +2103,270 @@
           "end": "2026-07-22",
           "sentiment": "bearish",
           "mentions": 5
+        }
+      ]
+    },
+    {
+      "blogger": "知乎奥特之父",
+      "items": [
+        {
+          "concept": "半导体",
+          "start": "2026-07-01",
+          "end": "2026-08-21",
+          "sentiment": "bearish",
+          "mentions": 6
+        },
+        {
+          "concept": "人形机器人",
+          "start": "2026-07-01",
+          "end": "2026-08-19",
+          "sentiment": "bearish",
+          "mentions": 38
+        },
+        {
+          "concept": "传感器",
+          "start": "2026-07-01",
+          "end": "2026-07-03",
+          "sentiment": "bullish",
+          "mentions": 2
+        },
+        {
+          "concept": "PCB",
+          "start": "2026-07-03",
+          "end": "2026-08-05",
+          "sentiment": "bearish",
+          "mentions": 6
+        },
+        {
+          "concept": "存储",
+          "start": "2026-07-03",
+          "end": "2026-08-18",
+          "sentiment": "bearish",
+          "mentions": 8
+        },
+        {
+          "concept": "智能电网",
+          "start": "2026-07-03",
+          "end": "2026-07-03",
+          "sentiment": "neutral",
+          "mentions": 1
+        },
+        {
+          "concept": "光通信",
+          "start": "2026-07-05",
+          "end": "2026-07-19",
+          "sentiment": "neutral",
+          "mentions": 8
+        },
+        {
+          "concept": "创新药",
+          "start": "2026-07-06",
+          "end": "2026-08-03",
+          "sentiment": "bearish",
+          "mentions": 8
+        },
+        {
+          "concept": "SiC/GaN",
+          "start": "2026-07-06",
+          "end": "2026-07-19",
+          "sentiment": "neutral",
+          "mentions": 2
+        },
+        {
+          "concept": "其他半导体",
+          "start": "2026-07-06",
+          "end": "2026-08-05",
+          "sentiment": "bearish",
+          "mentions": 3
+        },
+        {
+          "concept": "光刻",
+          "start": "2026-07-07",
+          "end": "2026-07-22",
+          "sentiment": "bearish",
+          "mentions": 14
+        },
+        {
+          "concept": "封测",
+          "start": "2026-07-07",
+          "end": "2026-07-07",
+          "sentiment": "bearish",
+          "mentions": 2
+        },
+        {
+          "concept": "光刻胶",
+          "start": "2026-07-07",
+          "end": "2026-07-22",
+          "sentiment": "bearish",
+          "mentions": 13
+        },
+        {
+          "concept": "储能",
+          "start": "2026-07-09",
+          "end": "2026-08-21",
+          "sentiment": "neutral",
+          "mentions": 4
+        },
+        {
+          "concept": "电池",
+          "start": "2026-07-09",
+          "end": "2026-08-21",
+          "sentiment": "bearish",
+          "mentions": 7
+        },
+        {
+          "concept": "游戏",
+          "start": "2026-07-09",
+          "end": "2026-08-18",
+          "sentiment": "neutral",
+          "mentions": 6
+        },
+        {
+          "concept": "光伏",
+          "start": "2026-07-09",
+          "end": "2026-07-09",
+          "sentiment": "bearish",
+          "mentions": 2
+        },
+        {
+          "concept": "锂电",
+          "start": "2026-07-09",
+          "end": "2026-08-18",
+          "sentiment": "bearish",
+          "mentions": 4
+        },
+        {
+          "concept": "MLCC",
+          "start": "2026-07-10",
+          "end": "2026-08-05",
+          "sentiment": "neutral",
+          "mentions": 2
+        },
+        {
+          "concept": "光模块",
+          "start": "2026-07-10",
+          "end": "2026-08-05",
+          "sentiment": "bearish",
+          "mentions": 3
+        },
+        {
+          "concept": "商业航天",
+          "start": "2026-07-13",
+          "end": "2026-08-03",
+          "sentiment": "bearish",
+          "mentions": 2
+        },
+        {
+          "concept": "光纤",
+          "start": "2026-07-15",
+          "end": "2026-07-15",
+          "sentiment": "neutral",
+          "mentions": 2
+        },
+        {
+          "concept": "光刻机",
+          "start": "2026-07-16",
+          "end": "2026-07-16",
+          "sentiment": "bearish",
+          "mentions": 1
+        },
+        {
+          "concept": "元件",
+          "start": "2026-07-16",
+          "end": "2026-07-16",
+          "sentiment": "bearish",
+          "mentions": 1
+        },
+        {
+          "concept": "电力",
+          "start": "2026-07-19",
+          "end": "2026-08-03",
+          "sentiment": "bearish",
+          "mentions": 4
+        },
+        {
+          "concept": "银行",
+          "start": "2026-07-22",
+          "end": "2026-08-21",
+          "sentiment": "bearish",
+          "mentions": 5
+        },
+        {
+          "concept": "CoWoS/先进封装",
+          "start": "2026-07-22",
+          "end": "2026-08-17",
+          "sentiment": "bullish",
+          "mentions": 3
+        },
+        {
+          "concept": "工程机械",
+          "start": "2026-07-22",
+          "end": "2026-07-22",
+          "sentiment": "neutral",
+          "mentions": 1
+        },
+        {
+          "concept": "白酒",
+          "start": "2026-07-22",
+          "end": "2026-07-22",
+          "sentiment": "neutral",
+          "mentions": 1
+        },
+        {
+          "concept": "中药",
+          "start": "2026-07-22",
+          "end": "2026-08-03",
+          "sentiment": "bearish",
+          "mentions": 3
+        },
+        {
+          "concept": "CPO",
+          "start": "2026-07-22",
+          "end": "2026-07-22",
+          "sentiment": "bearish",
+          "mentions": 1
+        },
+        {
+          "concept": "算力",
+          "start": "2026-07-22",
+          "end": "2026-08-05",
+          "sentiment": "bearish",
+          "mentions": 2
+        },
+        {
+          "concept": "猪肉",
+          "start": "2026-07-22",
+          "end": "2026-07-22",
+          "sentiment": "bullish",
+          "mentions": 1
+        },
+        {
+          "concept": "保险",
+          "start": "2026-07-22",
+          "end": "2026-07-22",
+          "sentiment": "bearish",
+          "mentions": 1
+        },
+        {
+          "concept": "教育",
+          "start": "2026-08-10",
+          "end": "2026-08-10",
+          "sentiment": "neutral",
+          "mentions": 1
+        },
+        {
+          "concept": "化肥",
+          "start": "2026-08-18",
+          "end": "2026-08-18",
+          "sentiment": "neutral",
+          "mentions": 2
+        },
+        {
+          "concept": "综合",
+          "start": "2026-08-18",
+          "end": "2026-08-18",
+          "sentiment": "neutral",
+          "mentions": 1
         }
       ]
     }
