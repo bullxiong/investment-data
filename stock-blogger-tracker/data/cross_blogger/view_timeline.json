@@ -2119,9 +2119,9 @@
         {
           "concept": "人形机器人",
           "start": "2026-07-01",
-          "end": "2026-08-19",
+          "end": "2026-08-23",
           "sentiment": "bearish",
-          "mentions": 38
+          "mentions": 39
         },
         {
           "concept": "传感器",
@@ -2180,18 +2180,18 @@
           "mentions": 3
         },
         {
+          "concept": "封测",
+          "start": "2026-07-07",
+          "end": "2026-08-23",
+          "sentiment": "bearish",
+          "mentions": 3
+        },
+        {
           "concept": "光刻",
           "start": "2026-07-07",
           "end": "2026-07-22",
           "sentiment": "bearish",
           "mentions": 14
-        },
-        {
-          "concept": "封测",
-          "start": "2026-07-07",
-          "end": "2026-07-07",
-          "sentiment": "bearish",
-          "mentions": 2
         },
         {
           "concept": "光刻胶",
@@ -2236,18 +2236,18 @@
           "mentions": 4
         },
         {
+          "concept": "光模块",
+          "start": "2026-07-10",
+          "end": "2026-08-23",
+          "sentiment": "neutral",
+          "mentions": 4
+        },
+        {
           "concept": "MLCC",
           "start": "2026-07-10",
           "end": "2026-08-05",
           "sentiment": "neutral",
           "mentions": 2
-        },
-        {
-          "concept": "光模块",
-          "start": "2026-07-10",
-          "end": "2026-08-05",
-          "sentiment": "bearish",
-          "mentions": 3
         },
         {
           "concept": "商业航天",
@@ -2287,9 +2287,16 @@
         {
           "concept": "银行",
           "start": "2026-07-22",
-          "end": "2026-08-21",
+          "end": "2026-08-23",
           "sentiment": "bearish",
-          "mentions": 5
+          "mentions": 7
+        },
+        {
+          "concept": "算力",
+          "start": "2026-07-22",
+          "end": "2026-08-23",
+          "sentiment": "bearish",
+          "mentions": 3
         },
         {
           "concept": "CoWoS/先进封装",
@@ -2327,13 +2334,6 @@
           "mentions": 1
         },
         {
-          "concept": "算力",
-          "start": "2026-07-22",
-          "end": "2026-08-05",
-          "sentiment": "bearish",
-          "mentions": 2
-        },
-        {
           "concept": "猪肉",
           "start": "2026-07-22",
           "end": "2026-07-22",
@@ -2365,6 +2365,27 @@
           "concept": "综合",
           "start": "2026-08-18",
           "end": "2026-08-18",
+          "sentiment": "neutral",
+          "mentions": 1
+        },
+        {
+          "concept": "数据中心",
+          "start": "2026-08-23",
+          "end": "2026-08-23",
+          "sentiment": "bearish",
+          "mentions": 1
+        },
+        {
+          "concept": "算力租赁",
+          "start": "2026-08-23",
+          "end": "2026-08-23",
+          "sentiment": "bearish",
+          "mentions": 1
+        },
+        {
+          "concept": "零售",
+          "start": "2026-08-23",
+          "end": "2026-08-23",
           "sentiment": "neutral",
           "mentions": 1
         }
