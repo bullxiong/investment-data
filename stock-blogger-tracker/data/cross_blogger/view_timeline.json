@@ -2112,16 +2112,16 @@
         {
           "concept": "半导体",
           "start": "2026-07-01",
-          "end": "2026-08-21",
+          "end": "2026-08-24",
           "sentiment": "bearish",
-          "mentions": 6
+          "mentions": 7
         },
         {
           "concept": "人形机器人",
           "start": "2026-07-01",
-          "end": "2026-08-23",
+          "end": "2026-08-25",
           "sentiment": "bearish",
-          "mentions": 39
+          "mentions": 42
         },
         {
           "concept": "传感器",
@@ -2131,18 +2131,18 @@
           "mentions": 2
         },
         {
+          "concept": "存储",
+          "start": "2026-07-03",
+          "end": "2026-08-25",
+          "sentiment": "bearish",
+          "mentions": 9
+        },
+        {
           "concept": "PCB",
           "start": "2026-07-03",
           "end": "2026-08-05",
           "sentiment": "bearish",
           "mentions": 6
-        },
-        {
-          "concept": "存储",
-          "start": "2026-07-03",
-          "end": "2026-08-18",
-          "sentiment": "bearish",
-          "mentions": 8
         },
         {
           "concept": "智能电网",
@@ -2215,6 +2215,13 @@
           "mentions": 7
         },
         {
+          "concept": "锂电",
+          "start": "2026-07-09",
+          "end": "2026-08-25",
+          "sentiment": "bearish",
+          "mentions": 5
+        },
+        {
           "concept": "游戏",
           "start": "2026-07-09",
           "end": "2026-08-18",
@@ -2229,18 +2236,11 @@
           "mentions": 2
         },
         {
-          "concept": "锂电",
-          "start": "2026-07-09",
-          "end": "2026-08-18",
-          "sentiment": "bearish",
-          "mentions": 4
-        },
-        {
           "concept": "光模块",
           "start": "2026-07-10",
-          "end": "2026-08-23",
-          "sentiment": "neutral",
-          "mentions": 4
+          "end": "2026-08-25",
+          "sentiment": "bullish",
+          "mentions": 5
         },
         {
           "concept": "MLCC",
@@ -2287,9 +2287,9 @@
         {
           "concept": "银行",
           "start": "2026-07-22",
-          "end": "2026-08-23",
+          "end": "2026-08-25",
           "sentiment": "bearish",
-          "mentions": 7
+          "mentions": 9
         },
         {
           "concept": "算力",
@@ -2387,6 +2387,20 @@
           "start": "2026-08-23",
           "end": "2026-08-23",
           "sentiment": "neutral",
+          "mentions": 1
+        },
+        {
+          "concept": "证券",
+          "start": "2026-08-24",
+          "end": "2026-08-24",
+          "sentiment": "neutral",
+          "mentions": 1
+        },
+        {
+          "concept": "新能源",
+          "start": "2026-08-25",
+          "end": "2026-08-25",
+          "sentiment": "bearish",
           "mentions": 1
         }
       ]
