@@ -482,81 +482,21 @@
       "concept": "零售",
       "date": "2026-08-23",
       "detail": "知乎奥特之父 首次关注 零售"
-    },
-    {
-      "type": "divergence",
-      "concept": "半导体",
-      "bullish_bloggers": [
-        "波king（只爱甜妹/盘后信息分享）"
-      ],
-      "bearish_bloggers": [
-        "知乎奥特之父"
-      ],
-      "date": "2026-08-24",
-      "detail": "半导体: 波king 看多 vs 知乎奥特之父 看空"
-    },
-    {
-      "type": "divergence",
-      "concept": "存储",
-      "bullish_bloggers": [
-        "波king（只爱甜妹/盘后信息分享）"
-      ],
-      "bearish_bloggers": [
-        "知乎奥特之父"
-      ],
-      "date": "2026-08-24",
-      "detail": "存储: 波king 看多 vs 知乎奥特之父 看空"
-    },
-    {
-      "type": "divergence",
-      "concept": "封测",
-      "bullish_bloggers": [
-        "波king（只爱甜妹/盘后信息分享）"
-      ],
-      "bearish_bloggers": [
-        "知乎奥特之父"
-      ],
-      "date": "2026-08-24",
-      "detail": "封测: 波king 看多 vs 知乎奥特之父 看空"
-    },
-    {
-      "type": "divergence",
-      "concept": "CoWoS/先进封装",
-      "bullish_bloggers": [
-        "知乎奥特之父"
-      ],
-      "bearish_bloggers": [
-        "波king（只爱甜妹/盘后信息分享）"
-      ],
-      "date": "2026-08-24",
-      "detail": "CoWoS/先进封装: 知乎奥特之父 看多 vs 波king 看空"
-    },
-    {
-      "type": "divergence",
-      "concept": "算力租赁",
-      "bullish_bloggers": [
-        "波king（只爱甜妹/盘后信息分享）"
-      ],
-      "bearish_bloggers": [
-        "知乎奥特之父"
-      ],
-      "date": "2026-08-24",
-      "detail": "算力租赁: 波king 看多 vs 知乎奥特之父 看空"
     }
   ],
-  "updated": "2026-08-24 10:04:16",
+  "updated": "2026-08-25 10:42:58",
   "count": {
     "sentiment_flip": 0,
     "first_mention": 69,
     "intensity_surge": 0,
     "resonance_form": 0,
-    "divergence": 5,
+    "divergence": 0,
     "position_enter": 0,
     "position_exit": 0,
     "sector_rotation": 0,
     "concentration_surge": 0,
     "concentration_drop": 0,
     "rapid_turnover": 0,
-    "total": 74
+    "total": 69
   }
 }
