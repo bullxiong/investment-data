@@ -482,12 +482,26 @@
       "concept": "零售",
       "date": "2026-08-23",
       "detail": "知乎奥特之父 首次关注 零售"
+    },
+    {
+      "type": "first_mention",
+      "blogger": "知乎奥特之父",
+      "concept": "证券",
+      "date": "2026-08-24",
+      "detail": "知乎奥特之父 首次关注 证券"
+    },
+    {
+      "type": "first_mention",
+      "blogger": "知乎奥特之父",
+      "concept": "新能源",
+      "date": "2026-08-25",
+      "detail": "知乎奥特之父 首次关注 新能源"
     }
   ],
-  "updated": "2026-08-25 10:42:58",
+  "updated": "2026-08-25 20:52:40",
   "count": {
     "sentiment_flip": 0,
-    "first_mention": 69,
+    "first_mention": 71,
     "intensity_surge": 0,
     "resonance_form": 0,
     "divergence": 0,
@@ -497,6 +511,6 @@
     "concentration_surge": 0,
     "concentration_drop": 0,
     "rapid_turnover": 0,
-    "total": 69
+    "total": 71
   }
 }
