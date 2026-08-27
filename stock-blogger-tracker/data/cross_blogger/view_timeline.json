@@ -2112,16 +2112,16 @@
         {
           "concept": "半导体",
           "start": "2026-07-01",
-          "end": "2026-08-24",
+          "end": "2026-08-26",
           "sentiment": "bearish",
-          "mentions": 7
+          "mentions": 8
         },
         {
           "concept": "人形机器人",
           "start": "2026-07-01",
-          "end": "2026-08-26",
+          "end": "2026-08-27",
           "sentiment": "bearish",
-          "mentions": 45
+          "mentions": 47
         },
         {
           "concept": "传感器",
@@ -2133,9 +2133,9 @@
         {
           "concept": "存储",
           "start": "2026-07-03",
-          "end": "2026-08-25",
+          "end": "2026-08-27",
           "sentiment": "bearish",
-          "mentions": 10
+          "mentions": 11
         },
         {
           "concept": "PCB",
@@ -2163,14 +2163,14 @@
           "start": "2026-07-06",
           "end": "2026-08-26",
           "sentiment": "bearish",
-          "mentions": 4
+          "mentions": 5
         },
         {
           "concept": "创新药",
           "start": "2026-07-06",
-          "end": "2026-08-03",
+          "end": "2026-08-27",
           "sentiment": "bearish",
-          "mentions": 8
+          "mentions": 9
         },
         {
           "concept": "SiC/GaN",
@@ -2182,9 +2182,9 @@
         {
           "concept": "封测",
           "start": "2026-07-07",
-          "end": "2026-08-23",
+          "end": "2026-08-27",
           "sentiment": "bearish",
-          "mentions": 3
+          "mentions": 4
         },
         {
           "concept": "光刻",
@@ -2224,16 +2224,16 @@
         {
           "concept": "游戏",
           "start": "2026-07-09",
-          "end": "2026-08-18",
-          "sentiment": "neutral",
-          "mentions": 6
+          "end": "2026-08-26",
+          "sentiment": "bullish",
+          "mentions": 7
         },
         {
           "concept": "光伏",
           "start": "2026-07-09",
-          "end": "2026-07-09",
+          "end": "2026-08-27",
           "sentiment": "bearish",
-          "mentions": 2
+          "mentions": 3
         },
         {
           "concept": "光模块",
@@ -2287,9 +2287,9 @@
         {
           "concept": "银行",
           "start": "2026-07-22",
-          "end": "2026-08-25",
+          "end": "2026-08-27",
           "sentiment": "bearish",
-          "mentions": 9
+          "mentions": 12
         },
         {
           "concept": "算力",
@@ -2302,8 +2302,8 @@
           "concept": "CoWoS/先进封装",
           "start": "2026-07-22",
           "end": "2026-08-26",
-          "sentiment": "neutral",
-          "mentions": 4
+          "sentiment": "bearish",
+          "mentions": 5
         },
         {
           "concept": "工程机械",
@@ -2394,7 +2394,7 @@
           "start": "2026-08-24",
           "end": "2026-08-26",
           "sentiment": "bearish",
-          "mentions": 2
+          "mentions": 3
         },
         {
           "concept": "新能源",
@@ -2408,6 +2408,20 @@
           "start": "2026-08-26",
           "end": "2026-08-26",
           "sentiment": "neutral",
+          "mentions": 2
+        },
+        {
+          "concept": "雄安新区",
+          "start": "2026-08-27",
+          "end": "2026-08-27",
+          "sentiment": "neutral",
+          "mentions": 1
+        },
+        {
+          "concept": "电网设备",
+          "start": "2026-08-27",
+          "end": "2026-08-27",
+          "sentiment": "bearish",
           "mentions": 1
         }
       ]
