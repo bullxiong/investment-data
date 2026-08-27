@@ -1,0 +1,582 @@
+{
+  "_schema": "社区概念词典·三级模型·人机协作维护",
+  "_note": "parent=大类(共识矩阵用), keywords=分词匹配词, synonyms=同义词(扫描到自动映射到此概念), _auto=true表示parent由系统自动匹配",
+  "PCB": {
+    "parent": "PCB产业链",
+    "keywords": [
+      "PCB",
+      "pcb",
+      "印制电路板",
+      "钻针"
+    ],
+    "_auto": true,
+    "core_stocks_todo": true
+  },
+  "CCL": {
+    "parent": "PCB产业链",
+    "keywords": [
+      "CCL",
+      "ccl"
+    ],
+    "synonyms": [
+      "覆铜板"
+    ],
+    "_auto": true,
+    "core_stocks_todo": true
+  },
+  "铜箔": {
+    "parent": "PCB产业链",
+    "keywords": [
+      "铜箔",
+      "电子铜箔"
+    ],
+    "synonyms": [
+      "PCB铜箔"
+    ],
+    "_auto": true,
+    "core_stocks": [
+      "铜冠铜箔"
+    ]
+  },
+  "电子布": {
+    "parent": "PCB产业链",
+    "keywords": [
+      "电子布"
+    ],
+    "synonyms": [
+      "玻纤布"
+    ],
+    "_auto": true,
+    "core_stocks": [
+      "中材科技",
+      "九鼎新材",
+      "长海股份",
+      "中国巨石",
+      "宏和科技",
+      "山东玻纤"
+    ]
+  },
+  "PTFE": {
+    "parent": "PCB产业链",
+    "keywords": [
+      "PTFE",
+      "ptfe"
+    ],
+    "_auto": true,
+    "core_stocks": [
+      "联创股份",
+      "中欣氟材",
+      "昊华科技",
+      "多氟多",
+      "巨化股份",
+      "永和股份"
+    ]
+  },
+  "基板/载板": {
+    "parent": "PCB产业链",
+    "keywords": [
+      "基板",
+      "载板",
+      "ABF载板",
+      "BT载板",
+      "玻璃基板"
+    ],
+    "synonyms": [
+      "ABF",
+      "BT"
+    ],
+    "_auto": true,
+    "core_stocks_todo": true
+  },
+  "MLCC": {
+    "parent": "被动元件",
+    "keywords": [
+      "MLCC",
+      "mlcc",
+      "多层陶瓷电容"
+    ],
+    "_auto": true,
+    "core_stocks": [
+      "洁美科技",
+      "三环集团",
+      "国瓷材料",
+      "风华高科",
+      "火炬电子",
+      "达利凯普",
+      "鸿远电子"
+    ]
+  },
+  "电容": {
+    "parent": "被动元件",
+    "keywords": [
+      "电容"
+    ],
+    "_auto": true,
+    "core_stocks": [
+      "三环集团",
+      "风华高科",
+      "法拉电子",
+      "艾华集团"
+    ]
+  },
+  "电感": {
+    "parent": "被动元件",
+    "keywords": [
+      "电感"
+    ],
+    "_auto": true,
+    "core_stocks": [
+      "顺络电子",
+      "风华高科",
+      "麦捷科技"
+    ]
+  },
+  "液冷": {
+    "parent": "AI基础设施",
+    "keywords": [
+      "液冷",
+      "冷板"
+    ],
+    "synonyms": [
+      "浸没式"
+    ],
+    "_auto": true,
+    "core_stocks_todo": true
+  },
+  "数据中心": {
+    "parent": "AI基础设施",
+    "keywords": [
+      "数据中心"
+    ],
+    "synonyms": [
+      "智算中心"
+    ],
+    "_auto": true,
+    "core_stocks_todo": true
+  },
+  "服务器": {
+    "parent": "AI基础设施",
+    "keywords": [
+      "服务器"
+    ],
+    "_auto": true,
+    "core_stocks_todo": true
+  },
+  "洁净室": {
+    "parent": "AI基础设施",
+    "keywords": [
+      "洁净室"
+    ],
+    "synonyms": [
+      "洁净厂房",
+      "洁净"
+    ],
+    "_auto": true,
+    "core_stocks": [
+      "深桑达A",
+      "太极实业",
+      "柏诚股份",
+      "圣晖集成",
+      "亚翔集成"
+    ]
+  },
+  "CoWoS/先进封装": {
+    "parent": "半导体制造",
+    "keywords": [
+      "CoWoS",
+      "cowos",
+      "CoWoS-L",
+      "先进封装",
+      "封装"
+    ],
+    "_auto": true,
+    "core_stocks_todo": true
+  },
+  "封测": {
+    "parent": "半导体制造",
+    "keywords": [
+      "封测"
+    ],
+    "synonyms": [
+      "封测厂"
+    ],
+    "_auto": true,
+    "core_stocks_todo": true
+  },
+  "晶圆": {
+    "parent": "半导体制造",
+    "keywords": [
+      "晶圆",
+      "晶圆厂",
+      "代工"
+    ],
+    "_auto": true,
+    "core_stocks_todo": true
+  },
+  "光刻": {
+    "parent": "半导体制造",
+    "keywords": [
+      "光刻"
+    ],
+    "synonyms": [
+      "EUV",
+      "DUV"
+    ],
+    "_auto": true,
+    "core_stocks_todo": true
+  },
+  "先进制程": {
+    "parent": "半导体制造",
+    "keywords": [
+      "先进制程"
+    ],
+    "synonyms": [
+      "成熟制程"
+    ],
+    "_auto": true,
+    "core_stocks_todo": true
+  },
+  "SiC/GaN": {
+    "parent": "半导体制造",
+    "keywords": [
+      "SiC",
+      "GaN",
+      "碳化硅",
+      "氮化镓"
+    ],
+    "_auto": true,
+    "core_stocks_todo": true
+  },
+  "硅光": {
+    "parent": "光通信",
+    "keywords": [
+      "硅光"
+    ],
+    "synonyms": [
+      "硅光子",
+      "硅基光"
+    ],
+    "_auto": true,
+    "core_stocks_todo": true
+  },
+  "光模块": {
+    "parent": "光通信",
+    "keywords": [
+      "光模块"
+    ],
+    "synonyms": [
+      "800G",
+      "1.6T"
+    ],
+    "_auto": true,
+    "core_stocks_todo": true
+  },
+  "光芯片": {
+    "parent": "光通信",
+    "keywords": [
+      "光芯片"
+    ],
+    "_auto": true,
+    "core_stocks_todo": true
+  },
+  "CPO": {
+    "parent": "光通信",
+    "keywords": [
+      "CPO",
+      "cpo"
+    ],
+    "_auto": true,
+    "core_stocks_todo": true
+  },
+  "MPO": {
+    "parent": "光通信",
+    "keywords": [
+      "MPO",
+      "mpo"
+    ],
+    "_auto": true,
+    "core_stocks": [
+      "新易盛",
+      "光迅科技",
+      "仕佳光子",
+      "中际旭创",
+      "太辰光",
+      "联特科技"
+    ]
+  },
+  "光通信": {
+    "parent": "光通信",
+    "keywords": [
+      "光通信"
+    ],
+    "_auto": true,
+    "core_stocks_todo": true
+  },
+  "光器件": {
+    "parent": "光通信",
+    "keywords": [
+      "光器件"
+    ],
+    "_auto": true,
+    "core_stocks_todo": true
+  },
+  "光纤": {
+    "parent": "光通信",
+    "keywords": [
+      "光纤"
+    ],
+    "_auto": true,
+    "core_stocks": [
+      "长飞光纤"
+    ]
+  },
+  "CW激光器": {
+    "parent": "光通信",
+    "keywords": [
+      "CW激光器",
+      "CW"
+    ],
+    "_auto": true,
+    "core_stocks": [
+      "华工科技",
+      "德龙激光",
+      "海目星",
+      "光韵达",
+      "联赢激光",
+      "锐科激光",
+      "杰普特",
+      "大族激光"
+    ]
+  },
+  "算力": {
+    "parent": "AI算力",
+    "keywords": [
+      "算力"
+    ],
+    "synonyms": [
+      "国算"
+    ],
+    "_auto": true,
+    "core_stocks": [
+      "浪潮信息",
+      "海光信息",
+      "寒武纪",
+      "景嘉微",
+      "中科曙光"
+    ]
+  },
+  "算力租赁": {
+    "parent": "AI算力",
+    "keywords": [
+      "算力租赁"
+    ],
+    "synonyms": [
+      "算力调度",
+      "算力网络"
+    ],
+    "_auto": true,
+    "core_stocks_todo": true
+  },
+  "B300/Rubin": {
+    "parent": "AI算力",
+    "keywords": [
+      "B300",
+      "Rubin",
+      "GB200",
+      "GB300",
+      "H100",
+      "H200",
+      "A100"
+    ],
+    "_auto": true,
+    "core_stocks_todo": true
+  },
+  "存储": {
+    "parent": "存储",
+    "keywords": [
+      "存储",
+      "存储芯片",
+      "存储模组"
+    ],
+    "synonyms": [
+      "内存"
+    ],
+    "_auto": true,
+    "core_stocks": [
+      "佰维存储"
+    ]
+  },
+  "HBM": {
+    "parent": "存储",
+    "keywords": [
+      "HBM",
+      "hbm"
+    ],
+    "_auto": true,
+    "core_stocks_todo": true
+  },
+  "人形机器人": {
+    "parent": "机器人",
+    "keywords": [
+      "人形机器人",
+      "具身智能"
+    ],
+    "synonyms": [
+      "机器人"
+    ],
+    "_auto": true,
+    "core_stocks_todo": true
+  },
+  "商业航天": {
+    "parent": "新质生产力",
+    "keywords": [
+      "商业航天",
+      "低轨卫星"
+    ],
+    "synonyms": [
+      "航天"
+    ],
+    "_auto": true,
+    "core_stocks_todo": true
+  },
+  "低空经济": {
+    "parent": "新质生产力",
+    "keywords": [
+      "低空经济",
+      "低空",
+      "eVTOL"
+    ],
+    "_auto": true,
+    "core_stocks_todo": true
+  },
+  "新能源": {
+    "parent": "能源",
+    "keywords": [
+      "新能源"
+    ],
+    "_auto": true,
+    "core_stocks_todo": true
+  },
+  "锂电": {
+    "parent": "能源",
+    "keywords": [
+      "锂电"
+    ],
+    "synonyms": [
+      "锂电池"
+    ],
+    "_auto": true,
+    "core_stocks": [
+      "德瑞锂电",
+      "天宏锂电",
+      "华盛锂电"
+    ]
+  },
+  "锂矿": {
+    "parent": "能源",
+    "keywords": [
+      "锂矿"
+    ],
+    "_auto": true,
+    "core_stocks": [
+      "亿纬锂能",
+      "融捷股份",
+      "天齐锂业",
+      "赣锋锂业",
+      "盛新锂能",
+      "永兴材料",
+      "中矿资源",
+      "雅化集团"
+    ]
+  },
+  "储能": {
+    "parent": "能源",
+    "keywords": [
+      "储能"
+    ],
+    "_auto": true,
+    "core_stocks_todo": true
+  },
+  "光伏": {
+    "parent": "能源",
+    "keywords": [
+      "光伏"
+    ],
+    "_auto": true,
+    "core_stocks_todo": true
+  },
+  "风电": {
+    "parent": "能源",
+    "keywords": [
+      "风电"
+    ],
+    "_auto": true,
+    "core_stocks_todo": true
+  },
+  "核电": {
+    "parent": "能源",
+    "keywords": [
+      "核电"
+    ],
+    "_auto": true,
+    "core_stocks": [
+      "中国核电"
+    ]
+  },
+  "电力": {
+    "parent": "能源",
+    "keywords": [
+      "电力"
+    ],
+    "_auto": true,
+    "core_stocks": [
+      "长江电力",
+      "国投电力",
+      "国电电力",
+      "华银电力",
+      "西昌电力",
+      "桂冠电力",
+      "明星电力"
+    ]
+  },
+  "电池": {
+    "parent": "能源",
+    "keywords": [
+      "电池"
+    ],
+    "_auto": true,
+    "core_stocks_todo": true
+  },
+  "光通信-其他": {
+    "parent": "光通信",
+    "keywords": [
+      "PAM4",
+      "EML",
+      "VCSEL",
+      "DCI",
+      "LPO",
+      "DAC",
+      "AEC",
+      "SOI"
+    ],
+    "_auto": true,
+    "core_stocks_todo": true
+  },
+  "其他半导体": {
+    "parent": "半导体制造",
+    "keywords": [
+      "FinFET",
+      "GAA",
+      "IGBT",
+      "MEMS",
+      "MicroLED",
+      "MiniLED",
+      "ASIC",
+      "FPGA",
+      "CXL",
+      "HBM"
+    ],
+    "_auto": true,
+    "core_stocks_todo": true
+  }
+}
