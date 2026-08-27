@@ -2119,9 +2119,9 @@
         {
           "concept": "人形机器人",
           "start": "2026-07-01",
-          "end": "2026-08-25",
+          "end": "2026-08-26",
           "sentiment": "bearish",
-          "mentions": 42
+          "mentions": 45
         },
         {
           "concept": "传感器",
@@ -2135,7 +2135,7 @@
           "start": "2026-07-03",
           "end": "2026-08-25",
           "sentiment": "bearish",
-          "mentions": 9
+          "mentions": 10
         },
         {
           "concept": "PCB",
@@ -2159,6 +2159,13 @@
           "mentions": 8
         },
         {
+          "concept": "其他半导体",
+          "start": "2026-07-06",
+          "end": "2026-08-26",
+          "sentiment": "bearish",
+          "mentions": 4
+        },
+        {
           "concept": "创新药",
           "start": "2026-07-06",
           "end": "2026-08-03",
@@ -2171,13 +2178,6 @@
           "end": "2026-07-19",
           "sentiment": "neutral",
           "mentions": 2
-        },
-        {
-          "concept": "其他半导体",
-          "start": "2026-07-06",
-          "end": "2026-08-05",
-          "sentiment": "bearish",
-          "mentions": 3
         },
         {
           "concept": "封测",
@@ -2240,7 +2240,7 @@
           "start": "2026-07-10",
           "end": "2026-08-25",
           "sentiment": "bullish",
-          "mentions": 5
+          "mentions": 6
         },
         {
           "concept": "MLCC",
@@ -2301,9 +2301,9 @@
         {
           "concept": "CoWoS/先进封装",
           "start": "2026-07-22",
-          "end": "2026-08-17",
-          "sentiment": "bullish",
-          "mentions": 3
+          "end": "2026-08-26",
+          "sentiment": "neutral",
+          "mentions": 4
         },
         {
           "concept": "工程机械",
@@ -2392,15 +2392,22 @@
         {
           "concept": "证券",
           "start": "2026-08-24",
-          "end": "2026-08-24",
-          "sentiment": "neutral",
-          "mentions": 1
+          "end": "2026-08-26",
+          "sentiment": "bearish",
+          "mentions": 2
         },
         {
           "concept": "新能源",
           "start": "2026-08-25",
           "end": "2026-08-25",
           "sentiment": "bearish",
+          "mentions": 2
+        },
+        {
+          "concept": "CCL",
+          "start": "2026-08-26",
+          "end": "2026-08-26",
+          "sentiment": "neutral",
           "mentions": 1
         }
       ]
