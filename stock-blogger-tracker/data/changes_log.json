@@ -496,12 +496,33 @@
       "concept": "新能源",
       "date": "2026-08-25",
       "detail": "知乎奥特之父 首次关注 新能源"
+    },
+    {
+      "type": "first_mention",
+      "blogger": "知乎奥特之父",
+      "concept": "CCL",
+      "date": "2026-08-26",
+      "detail": "知乎奥特之父 首次关注 CCL"
+    },
+    {
+      "type": "first_mention",
+      "blogger": "知乎奥特之父",
+      "concept": "雄安新区",
+      "date": "2026-08-27",
+      "detail": "知乎奥特之父 首次关注 雄安新区"
+    },
+    {
+      "type": "first_mention",
+      "blogger": "知乎奥特之父",
+      "concept": "电网设备",
+      "date": "2026-08-27",
+      "detail": "知乎奥特之父 首次关注 电网设备"
     }
   ],
-  "updated": "2026-08-25 20:52:40",
+  "updated": "2026-08-27 20:32:43",
   "count": {
     "sentiment_flip": 0,
-    "first_mention": 71,
+    "first_mention": 74,
     "intensity_surge": 0,
     "resonance_form": 0,
     "divergence": 0,
@@ -511,6 +532,6 @@
     "concentration_surge": 0,
     "concentration_drop": 0,
     "rapid_turnover": 0,
-    "total": 71
+    "total": 74
   }
 }
