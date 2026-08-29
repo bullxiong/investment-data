@@ -3,97 +3,6 @@
     {
       "type": "first_mention",
       "blogger": "波king（只爱甜妹/盘后信息分享）",
-      "concept": "软件开发",
-      "date": "2026-07-28",
-      "detail": "波king 首次关注 软件开发"
-    },
-    {
-      "type": "first_mention",
-      "blogger": "波king（只爱甜妹/盘后信息分享）",
-      "concept": "染料",
-      "date": "2026-07-28",
-      "detail": "波king 首次关注 染料"
-    },
-    {
-      "type": "first_mention",
-      "blogger": "波king（只爱甜妹/盘后信息分享）",
-      "concept": "雄安新区",
-      "date": "2026-07-28",
-      "detail": "波king 首次关注 雄安新区"
-    },
-    {
-      "type": "first_mention",
-      "blogger": "波king（只爱甜妹/盘后信息分享）",
-      "concept": "消费电子",
-      "date": "2026-07-28",
-      "detail": "波king 首次关注 消费电子"
-    },
-    {
-      "type": "first_mention",
-      "blogger": "波king（只爱甜妹/盘后信息分享）",
-      "concept": "乳业",
-      "date": "2026-07-28",
-      "detail": "波king 首次关注 乳业"
-    },
-    {
-      "type": "first_mention",
-      "blogger": "波king（只爱甜妹/盘后信息分享）",
-      "concept": "数字货币",
-      "date": "2026-07-28",
-      "detail": "波king 首次关注 数字货币"
-    },
-    {
-      "type": "first_mention",
-      "blogger": "波king（只爱甜妹/盘后信息分享）",
-      "concept": "教育",
-      "date": "2026-07-28",
-      "detail": "波king 首次关注 教育"
-    },
-    {
-      "type": "first_mention",
-      "blogger": "波king（只爱甜妹/盘后信息分享）",
-      "concept": "AI眼镜",
-      "date": "2026-07-28",
-      "detail": "波king 首次关注 AI眼镜"
-    },
-    {
-      "type": "first_mention",
-      "blogger": "波king（只爱甜妹/盘后信息分享）",
-      "concept": "汽车电子",
-      "date": "2026-07-28",
-      "detail": "波king 首次关注 汽车电子"
-    },
-    {
-      "type": "first_mention",
-      "blogger": "波king（只爱甜妹/盘后信息分享）",
-      "concept": "AI PC",
-      "date": "2026-07-28",
-      "detail": "波king 首次关注 AI PC"
-    },
-    {
-      "type": "first_mention",
-      "blogger": "波king（只爱甜妹/盘后信息分享）",
-      "concept": "智能音箱",
-      "date": "2026-07-28",
-      "detail": "波king 首次关注 智能音箱"
-    },
-    {
-      "type": "first_mention",
-      "blogger": "波king（只爱甜妹/盘后信息分享）",
-      "concept": "云计算",
-      "date": "2026-07-28",
-      "detail": "波king 首次关注 云计算"
-    },
-    {
-      "type": "first_mention",
-      "blogger": "波king（只爱甜妹/盘后信息分享）",
-      "concept": "工业金属",
-      "date": "2026-07-28",
-      "detail": "波king 首次关注 工业金属"
-    },
-    {
-      "type": "first_mention",
-      "blogger": "波king（只爱甜妹/盘后信息分享）",
       "concept": "燃料电池",
       "date": "2026-07-29",
       "detail": "波king 首次关注 燃料电池"
@@ -519,10 +428,10 @@
       "detail": "知乎奥特之父 首次关注 电网设备"
     }
   ],
-  "updated": "2026-08-27 20:32:43",
+  "updated": "2026-08-28 23:04:59",
   "count": {
     "sentiment_flip": 0,
-    "first_mention": 74,
+    "first_mention": 61,
     "intensity_surge": 0,
     "resonance_form": 0,
     "divergence": 0,
@@ -532,6 +441,6 @@
     "concentration_surge": 0,
     "concentration_drop": 0,
     "rapid_turnover": 0,
-    "total": 74
+    "total": 61
   }
 }
