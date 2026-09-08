@@ -2,94 +2,87 @@
   "changes": [
     {
       "type": "first_mention",
-      "blogger": "波king（只爱甜妹/盘后信息分享）",
-      "concept": "光伏设备",
-      "date": "2026-08-03",
-      "detail": "波king 首次关注 光伏设备"
+      "blogger": "白河愁博士",
+      "concept": "银行",
+      "date": "2026-09-01",
+      "detail": "白河愁 首次关注 银行"
     },
     {
       "type": "first_mention",
-      "blogger": "波king（只爱甜妹/盘后信息分享）",
-      "concept": "AI智能体",
-      "date": "2026-08-03",
-      "detail": "波king 首次关注 AI智能体"
+      "blogger": "白河愁博士",
+      "concept": "数字货币",
+      "date": "2026-09-01",
+      "detail": "白河愁 首次关注 数字货币"
     },
     {
       "type": "first_mention",
-      "blogger": "波king（只爱甜妹/盘后信息分享）",
-      "concept": "物联网",
-      "date": "2026-08-03",
-      "detail": "波king 首次关注 物联网"
+      "blogger": "白河愁博士",
+      "concept": "服务器",
+      "date": "2026-09-02",
+      "detail": "白河愁 首次关注 服务器"
     },
     {
       "type": "first_mention",
-      "blogger": "波king（只爱甜妹/盘后信息分享）",
-      "concept": "工业母机",
-      "date": "2026-08-03",
-      "detail": "波king 首次关注 工业母机"
+      "blogger": "白河愁博士",
+      "concept": "液冷",
+      "date": "2026-09-03",
+      "detail": "白河愁 首次关注 液冷"
     },
     {
       "type": "first_mention",
-      "blogger": "波king（只爱甜妹/盘后信息分享）",
-      "concept": "华为昇腾",
-      "date": "2026-08-03",
-      "detail": "波king 首次关注 华为昇腾"
+      "blogger": "白河愁博士",
+      "concept": "SiC/GaN",
+      "date": "2026-09-03",
+      "detail": "白河愁 首次关注 SiC/GaN"
     },
     {
       "type": "first_mention",
-      "blogger": "波king（只爱甜妹/盘后信息分享）",
-      "concept": "小金属",
-      "date": "2026-08-03",
-      "detail": "波king 首次关注 小金属"
+      "blogger": "白河愁博士",
+      "concept": "光模块",
+      "date": "2026-09-03",
+      "detail": "白河愁 首次关注 光模块"
     },
     {
       "type": "first_mention",
-      "blogger": "波king（只爱甜妹/盘后信息分享）",
-      "concept": "石墨电极",
-      "date": "2026-08-06",
-      "detail": "波king 首次关注 石墨电极"
+      "blogger": "白河愁博士",
+      "concept": "基板/载板",
+      "date": "2026-09-03",
+      "detail": "白河愁 首次关注 基板/载板"
     },
     {
       "type": "first_mention",
-      "blogger": "波king（只爱甜妹/盘后信息分享）",
-      "concept": "金属新材料",
-      "date": "2026-08-06",
-      "detail": "波king 首次关注 金属新材料"
+      "blogger": "白河愁博士",
+      "concept": "数据中心",
+      "date": "2026-09-03",
+      "detail": "白河愁 首次关注 数据中心"
     },
     {
       "type": "first_mention",
-      "blogger": "波king（只爱甜妹/盘后信息分享）",
-      "concept": "高端装备",
-      "date": "2026-08-06",
-      "detail": "波king 首次关注 高端装备"
+      "blogger": "白河愁博士",
+      "concept": "AI应用",
+      "date": "2026-09-03",
+      "detail": "白河愁 首次关注 AI应用"
     },
     {
       "type": "first_mention",
-      "blogger": "波king（只爱甜妹/盘后信息分享）",
+      "blogger": "白河愁博士",
       "concept": "数据要素",
-      "date": "2026-08-06",
-      "detail": "波king 首次关注 数据要素"
+      "date": "2026-09-03",
+      "detail": "白河愁 首次关注 数据要素"
     },
     {
       "type": "first_mention",
-      "blogger": "波king（只爱甜妹/盘后信息分享）",
-      "concept": "自动化设备",
-      "date": "2026-08-06",
-      "detail": "波king 首次关注 自动化设备"
+      "blogger": "白河愁博士",
+      "concept": "网络安全",
+      "date": "2026-09-03",
+      "detail": "白河愁 首次关注 网络安全"
     },
     {
       "type": "first_mention",
-      "blogger": "波king（只爱甜妹/盘后信息分享）",
-      "concept": "流感",
-      "date": "2026-08-06",
-      "detail": "波king 首次关注 流感"
-    },
-    {
-      "type": "first_mention",
-      "blogger": "波king（只爱甜妹/盘后信息分享）",
-      "concept": "包装印刷",
-      "date": "2026-08-06",
-      "detail": "波king 首次关注 包装印刷"
+      "blogger": "白河愁博士",
+      "concept": "综合",
+      "date": "2026-09-03",
+      "detail": "白河愁 首次关注 综合"
     },
     {
       "type": "first_mention",
@@ -216,21 +209,106 @@
       "concept": "电网设备",
       "date": "2026-08-27",
       "detail": "知乎奥特之父 首次关注 电网设备"
+    },
+    {
+      "type": "divergence",
+      "concept": "CPO",
+      "bullish_bloggers": [
+        "雪球大V-1034624503"
+      ],
+      "bearish_bloggers": [
+        "白河愁博士"
+      ],
+      "date": "2026-09-08",
+      "detail": "CPO: 雪球V 看多 vs 白河愁 看空"
+    },
+    {
+      "type": "divergence",
+      "concept": "CoWoS/先进封装",
+      "bullish_bloggers": [
+        "白河愁博士",
+        "雪球大V-1034624503"
+      ],
+      "bearish_bloggers": [
+        "知乎奥特之父"
+      ],
+      "date": "2026-09-08",
+      "detail": "CoWoS/先进封装: 白河愁、雪球V 看多 vs 知乎奥特之父 看空"
+    },
+    {
+      "type": "divergence",
+      "concept": "存储",
+      "bullish_bloggers": [
+        "雪球大V-1034624503"
+      ],
+      "bearish_bloggers": [
+        "知乎奥特之父"
+      ],
+      "date": "2026-09-08",
+      "detail": "存储: 雪球V 看多 vs 知乎奥特之父 看空"
+    },
+    {
+      "type": "divergence",
+      "concept": "液冷",
+      "bullish_bloggers": [
+        "雪球大V-1034624503"
+      ],
+      "bearish_bloggers": [
+        "白河愁博士"
+      ],
+      "date": "2026-09-08",
+      "detail": "液冷: 雪球V 看多 vs 白河愁 看空"
+    },
+    {
+      "type": "divergence",
+      "concept": "人形机器人",
+      "bullish_bloggers": [
+        "白河愁博士"
+      ],
+      "bearish_bloggers": [
+        "知乎奥特之父"
+      ],
+      "date": "2026-09-08",
+      "detail": "人形机器人: 白河愁 看多 vs 知乎奥特之父 看空"
+    },
+    {
+      "type": "divergence",
+      "concept": "其他半导体",
+      "bullish_bloggers": [
+        "白河愁博士"
+      ],
+      "bearish_bloggers": [
+        "知乎奥特之父"
+      ],
+      "date": "2026-09-08",
+      "detail": "其他半导体: 白河愁 看多 vs 知乎奥特之父 看空"
+    },
+    {
+      "type": "divergence",
+      "concept": "创新药",
+      "bullish_bloggers": [
+        "白河愁博士"
+      ],
+      "bearish_bloggers": [
+        "知乎奥特之父"
+      ],
+      "date": "2026-09-08",
+      "detail": "创新药: 白河愁 看多 vs 知乎奥特之父 看空"
     }
   ],
-  "updated": "2026-08-30 22:45:27",
+  "updated": "2026-09-08 14:36:24",
   "count": {
     "sentiment_flip": 0,
-    "first_mention": 31,
+    "first_mention": 30,
     "intensity_surge": 0,
     "resonance_form": 0,
-    "divergence": 0,
+    "divergence": 7,
     "position_enter": 0,
     "position_exit": 0,
     "sector_rotation": 0,
     "concentration_surge": 0,
     "concentration_drop": 0,
     "rapid_turnover": 0,
-    "total": 31
+    "total": 37
   }
 }
