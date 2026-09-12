@@ -86,59 +86,10 @@
     },
     {
       "type": "first_mention",
-      "blogger": "波king（只爱甜妹/盘后信息分享）",
-      "concept": "影视院线",
-      "date": "2026-08-10",
-      "detail": "波king 首次关注 影视院线"
-    },
-    {
-      "type": "first_mention",
-      "blogger": "波king（只爱甜妹/盘后信息分享）",
-      "concept": "智能物流",
-      "date": "2026-08-10",
-      "detail": "波king 首次关注 智能物流"
-    },
-    {
-      "type": "first_mention",
-      "blogger": "波king（只爱甜妹/盘后信息分享）",
-      "concept": "第三代半导体",
-      "date": "2026-08-10",
-      "detail": "波king 首次关注 第三代半导体"
-    },
-    {
-      "type": "first_mention",
-      "blogger": "波king（只爱甜妹/盘后信息分享）",
-      "concept": "抽水蓄能",
-      "date": "2026-08-10",
-      "detail": "波king 首次关注 抽水蓄能"
-    },
-    {
-      "type": "first_mention",
-      "blogger": "波king（只爱甜妹/盘后信息分享）",
-      "concept": "电子化学品",
-      "date": "2026-08-10",
-      "detail": "波king 首次关注 电子化学品"
-    },
-    {
-      "type": "first_mention",
-      "blogger": "波king（只爱甜妹/盘后信息分享）",
-      "concept": "数据安全",
-      "date": "2026-08-10",
-      "detail": "波king 首次关注 数据安全"
-    },
-    {
-      "type": "first_mention",
-      "blogger": "波king（只爱甜妹/盘后信息分享）",
-      "concept": "大飞机",
-      "date": "2026-08-10",
-      "detail": "波king 首次关注 大飞机"
-    },
-    {
-      "type": "first_mention",
-      "blogger": "知乎奥特之父",
-      "concept": "教育",
-      "date": "2026-08-10",
-      "detail": "知乎奥特之父 首次关注 教育"
+      "blogger": "白河愁博士",
+      "concept": "烟草",
+      "date": "2026-09-07",
+      "detail": "白河愁 首次关注 烟草"
     },
     {
       "type": "first_mention",
@@ -209,106 +160,21 @@
       "concept": "电网设备",
       "date": "2026-08-27",
       "detail": "知乎奥特之父 首次关注 电网设备"
-    },
-    {
-      "type": "divergence",
-      "concept": "CPO",
-      "bullish_bloggers": [
-        "雪球大V-1034624503"
-      ],
-      "bearish_bloggers": [
-        "白河愁博士"
-      ],
-      "date": "2026-09-08",
-      "detail": "CPO: 雪球V 看多 vs 白河愁 看空"
-    },
-    {
-      "type": "divergence",
-      "concept": "CoWoS/先进封装",
-      "bullish_bloggers": [
-        "白河愁博士",
-        "雪球大V-1034624503"
-      ],
-      "bearish_bloggers": [
-        "知乎奥特之父"
-      ],
-      "date": "2026-09-08",
-      "detail": "CoWoS/先进封装: 白河愁、雪球V 看多 vs 知乎奥特之父 看空"
-    },
-    {
-      "type": "divergence",
-      "concept": "存储",
-      "bullish_bloggers": [
-        "雪球大V-1034624503"
-      ],
-      "bearish_bloggers": [
-        "知乎奥特之父"
-      ],
-      "date": "2026-09-08",
-      "detail": "存储: 雪球V 看多 vs 知乎奥特之父 看空"
-    },
-    {
-      "type": "divergence",
-      "concept": "液冷",
-      "bullish_bloggers": [
-        "雪球大V-1034624503"
-      ],
-      "bearish_bloggers": [
-        "白河愁博士"
-      ],
-      "date": "2026-09-08",
-      "detail": "液冷: 雪球V 看多 vs 白河愁 看空"
-    },
-    {
-      "type": "divergence",
-      "concept": "人形机器人",
-      "bullish_bloggers": [
-        "白河愁博士"
-      ],
-      "bearish_bloggers": [
-        "知乎奥特之父"
-      ],
-      "date": "2026-09-08",
-      "detail": "人形机器人: 白河愁 看多 vs 知乎奥特之父 看空"
-    },
-    {
-      "type": "divergence",
-      "concept": "其他半导体",
-      "bullish_bloggers": [
-        "白河愁博士"
-      ],
-      "bearish_bloggers": [
-        "知乎奥特之父"
-      ],
-      "date": "2026-09-08",
-      "detail": "其他半导体: 白河愁 看多 vs 知乎奥特之父 看空"
-    },
-    {
-      "type": "divergence",
-      "concept": "创新药",
-      "bullish_bloggers": [
-        "白河愁博士"
-      ],
-      "bearish_bloggers": [
-        "知乎奥特之父"
-      ],
-      "date": "2026-09-08",
-      "detail": "创新药: 白河愁 看多 vs 知乎奥特之父 看空"
     }
   ],
-  "updated": "2026-09-08 14:36:24",
+  "updated": "2026-09-12 12:13:20",
   "count": {
     "sentiment_flip": 0,
-    "first_mention": 30,
+    "first_mention": 23,
     "intensity_surge": 0,
     "resonance_form": 0,
-    "divergence": 7,
+    "divergence": 0,
     "position_enter": 0,
     "position_exit": 0,
     "sector_rotation": 0,
     "concentration_surge": 0,
     "concentration_drop": 0,
     "rapid_turnover": 0,
-    "total": 37
+    "total": 23
   }
 }
