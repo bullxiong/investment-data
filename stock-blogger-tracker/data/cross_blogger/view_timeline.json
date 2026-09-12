@@ -431,9 +431,9 @@
         {
           "concept": "保险",
           "start": "2026-06-22",
-          "end": "2026-09-02",
-          "sentiment": "bearish",
-          "mentions": 3
+          "end": "2026-09-07",
+          "sentiment": "bullish",
+          "mentions": 12
         },
         {
           "concept": "半导体",
@@ -620,9 +620,9 @@
         {
           "concept": "创新药",
           "start": "2026-07-02",
-          "end": "2026-09-03",
+          "end": "2026-09-08",
           "sentiment": "bullish",
-          "mentions": 30
+          "mentions": 31
         },
         {
           "concept": "证券",
@@ -641,9 +641,9 @@
         {
           "concept": "银行",
           "start": "2026-09-01",
-          "end": "2026-09-01",
+          "end": "2026-09-07",
           "sentiment": "bearish",
-          "mentions": 1
+          "mentions": 10
         },
         {
           "concept": "数字货币",
@@ -721,6 +721,13 @@
           "end": "2026-09-03",
           "sentiment": "neutral",
           "mentions": 1
+        },
+        {
+          "concept": "烟草",
+          "start": "2026-09-07",
+          "end": "2026-09-07",
+          "sentiment": "neutral",
+          "mentions": 5
         }
       ]
     },
