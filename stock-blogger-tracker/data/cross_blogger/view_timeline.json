@@ -13,9 +13,9 @@
         {
           "concept": "人形机器人",
           "start": "2026-04-26",
-          "end": "2026-06-28",
+          "end": "2026-09-07",
           "sentiment": "bullish",
-          "mentions": 19
+          "mentions": 20
         },
         {
           "concept": "算力",
@@ -29,7 +29,7 @@
           "start": "2026-04-26",
           "end": "2026-09-03",
           "sentiment": "bullish",
-          "mentions": 14
+          "mentions": 15
         },
         {
           "concept": "光通信",
@@ -55,23 +55,23 @@
         {
           "concept": "光伏",
           "start": "2026-04-26",
-          "end": "2026-04-26",
-          "sentiment": "bearish",
-          "mentions": 1
+          "end": "2026-08-20",
+          "sentiment": "neutral",
+          "mentions": 2
         },
         {
           "concept": "CPO",
           "start": "2026-05-05",
           "end": "2026-09-03",
           "sentiment": "bullish",
-          "mentions": 15
+          "mentions": 18
         },
         {
           "concept": "光纤",
           "start": "2026-05-05",
           "end": "2026-09-03",
           "sentiment": "bearish",
-          "mentions": 11
+          "mentions": 12
         },
         {
           "concept": "光芯片",
@@ -85,14 +85,14 @@
           "start": "2026-05-06",
           "end": "2026-09-03",
           "sentiment": "bullish",
-          "mentions": 16
+          "mentions": 17
         },
         {
           "concept": "CoWoS/先进封装",
           "start": "2026-05-08",
           "end": "2026-09-03",
           "sentiment": "bullish",
-          "mentions": 15
+          "mentions": 16
         },
         {
           "concept": "晶圆",
@@ -139,16 +139,16 @@
         {
           "concept": "电池",
           "start": "2026-05-16",
-          "end": "2026-06-28",
+          "end": "2026-09-07",
           "sentiment": "bullish",
-          "mentions": 4
+          "mentions": 5
         },
         {
           "concept": "固态电池",
           "start": "2026-05-16",
-          "end": "2026-06-21",
+          "end": "2026-09-07",
           "sentiment": "bullish",
-          "mentions": 3
+          "mentions": 4
         },
         {
           "concept": "电机",
@@ -162,28 +162,28 @@
           "start": "2026-05-17",
           "end": "2026-09-03",
           "sentiment": "bullish",
-          "mentions": 15
+          "mentions": 16
         },
         {
           "concept": "液冷",
           "start": "2026-05-17",
-          "end": "2026-09-03",
+          "end": "2026-09-05",
           "sentiment": "bullish",
-          "mentions": 13
+          "mentions": 15
         },
         {
           "concept": "半导体",
           "start": "2026-05-17",
           "end": "2026-09-03",
           "sentiment": "bearish",
-          "mentions": 14
+          "mentions": 15
         },
         {
           "concept": "服务器",
           "start": "2026-05-17",
-          "end": "2026-09-03",
+          "end": "2026-09-05",
           "sentiment": "bullish",
-          "mentions": 8
+          "mentions": 9
         },
         {
           "concept": "消费电子",
@@ -300,9 +300,9 @@
         {
           "concept": "新能源",
           "start": "2026-05-26",
-          "end": "2026-06-28",
+          "end": "2026-09-07",
           "sentiment": "bullish",
-          "mentions": 4
+          "mentions": 5
         },
         {
           "concept": "物流",
@@ -393,7 +393,7 @@
           "start": "2026-06-27",
           "end": "2026-09-03",
           "sentiment": "bullish",
-          "mentions": 3
+          "mentions": 4
         },
         {
           "concept": "玉米",
@@ -413,6 +413,13 @@
           "concept": "汽车零部件",
           "start": "2026-06-28",
           "end": "2026-06-28",
+          "sentiment": "bullish",
+          "mentions": 1
+        },
+        {
+          "concept": "光伏设备",
+          "start": "2026-08-20",
+          "end": "2026-08-20",
           "sentiment": "bullish",
           "mentions": 1
         }
@@ -466,9 +473,9 @@
         {
           "concept": "存储",
           "start": "2026-06-24",
-          "end": "2026-07-04",
+          "end": "2026-09-09",
           "sentiment": "bullish",
-          "mentions": 58
+          "mentions": 59
         },
         {
           "concept": "人形机器人",
