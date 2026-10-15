@@ -599,9 +599,9 @@
         {
           "concept": "电池",
           "start": "2026-06-28",
-          "end": "2026-06-29",
+          "end": "2026-10-14",
           "sentiment": "bearish",
-          "mentions": 2
+          "mentions": 3
         },
         {
           "concept": "锂电",
@@ -735,6 +735,13 @@
           "end": "2026-09-07",
           "sentiment": "neutral",
           "mentions": 5
+        },
+        {
+          "concept": "军工",
+          "start": "2026-10-14",
+          "end": "2026-10-14",
+          "sentiment": "neutral",
+          "mentions": 1
         }
       ]
     },
