@@ -1,9 +1,17 @@
 {
-  "changes": [],
-  "updated": "2026-10-08 09:42:16",
+  "changes": [
+    {
+      "type": "first_mention",
+      "blogger": "白河愁博士",
+      "concept": "军工",
+      "date": "2026-10-14",
+      "detail": "白河愁 首次关注 军工"
+    }
+  ],
+  "updated": "2026-10-15 10:46:12",
   "count": {
     "sentiment_flip": 0,
-    "first_mention": 0,
+    "first_mention": 1,
     "intensity_surge": 0,
     "resonance_form": 0,
     "divergence": 0,
@@ -13,6 +21,6 @@
     "concentration_surge": 0,
     "concentration_drop": 0,
     "rapid_turnover": 0,
-    "total": 0
+    "total": 1
   }
 }
